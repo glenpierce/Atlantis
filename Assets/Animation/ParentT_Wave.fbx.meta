@@ -1,0 +1,254 @@
+fileFormatVersion: 2
+guid: 76807ba20233fcb458ddad51ce0d7fd6
+timeCreated: 1485115068
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: joint1
+    100002: joint10
+    100004: joint11
+    100006: joint2
+    100008: joint3
+    100010: joint4
+    100012: joint5
+    100014: joint6
+    100016: joint7
+    100018: joint8
+    100020: joint9
+    100022: Lights
+    100024: octopus
+    100026: octopus1
+    100028: //RootNode
+    100030: tentacle011
+    100032: tentacleA
+    100034: tentacleA1
+    100036: tentacleB
+    100038: tentacleB1
+    100040: tentacleC
+    100042: tentacleC1
+    100044: tentacleD
+    100046: tentacleD1
+    100048: tentacleE
+    100050: tentacleE1
+    100052: tentacleF
+    100054: tentacleF1
+    100056: tentacleG
+    100058: tentacleG1
+    100060: tentacleH
+    100062: tentacleH1
+    100064: tentacleI
+    100066: tentacleI1
+    100068: tentacleJ
+    100070: tentacleJ1
+    400000: joint1
+    400002: joint10
+    400004: joint11
+    400006: joint2
+    400008: joint3
+    400010: joint4
+    400012: joint5
+    400014: joint6
+    400016: joint7
+    400018: joint8
+    400020: joint9
+    400022: Lights
+    400024: octopus
+    400026: octopus1
+    400028: //RootNode
+    400030: tentacle011
+    400032: tentacleA
+    400034: tentacleA1
+    400036: tentacleB
+    400038: tentacleB1
+    400040: tentacleC
+    400042: tentacleC1
+    400044: tentacleD
+    400046: tentacleD1
+    400048: tentacleE
+    400050: tentacleE1
+    400052: tentacleF
+    400054: tentacleF1
+    400056: tentacleG
+    400058: tentacleG1
+    400060: tentacleH
+    400062: tentacleH1
+    400064: tentacleI
+    400066: tentacleI1
+    400068: tentacleJ
+    400070: tentacleJ1
+    2300000: octopus1
+    3300000: octopus1
+    4300000: octopus
+    4300002: octopus1
+    7400000: ParentTWave
+    9500000: //RootNode
+    13700000: octopus
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: ParentTWave
+      takeName: Take 001
+      firstFrame: 1
+      lastFrame: 80
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: joint1
+        weight: 1
+      - path: joint1/joint2
+        weight: 1
+      - path: joint1/joint2/joint3
+        weight: 1
+      - path: joint1/joint2/joint3/joint4
+        weight: 1
+      - path: joint1/joint2/joint3/joint4/joint5
+        weight: 1
+      - path: joint1/joint2/joint3/joint4/joint5/joint6
+        weight: 1
+      - path: joint1/joint2/joint3/joint4/joint5/joint6/joint7
+        weight: 1
+      - path: joint1/joint2/joint3/joint4/joint5/joint6/joint7/joint8
+        weight: 1
+      - path: joint1/joint2/joint3/joint4/joint5/joint6/joint7/joint8/joint9
+        weight: 1
+      - path: joint1/joint2/joint3/joint4/joint5/joint6/joint7/joint8/joint9/joint10
+        weight: 1
+      - path: joint1/joint2/joint3/joint4/joint5/joint6/joint7/joint8/joint9/joint10/joint11
+        weight: 1
+      - path: Lights
+        weight: 1
+      - path: octopus
+        weight: 1
+      - path: octopus1
+        weight: 1
+      - path: tentacle011
+        weight: 1
+      - path: tentacleJ1
+        weight: 1
+      - path: tentacleJ1/tentacleJ
+        weight: 1
+      - path: tentacleJ1/tentacleJ/tentacleA1
+        weight: 1
+      - path: tentacleJ1/tentacleJ/tentacleA1/tentacleA
+        weight: 1
+      - path: tentacleJ1/tentacleJ/tentacleA1/tentacleA/tentacleB1
+        weight: 1
+      - path: tentacleJ1/tentacleJ/tentacleA1/tentacleA/tentacleB1/tentacleB
+        weight: 1
+      - path: tentacleJ1/tentacleJ/tentacleA1/tentacleA/tentacleB1/tentacleB/tentacleC1
+        weight: 1
+      - path: tentacleJ1/tentacleJ/tentacleA1/tentacleA/tentacleB1/tentacleB/tentacleC1/tentacleC
+        weight: 1
+      - path: tentacleJ1/tentacleJ/tentacleA1/tentacleA/tentacleB1/tentacleB/tentacleC1/tentacleC/tentacleD1
+        weight: 1
+      - path: tentacleJ1/tentacleJ/tentacleA1/tentacleA/tentacleB1/tentacleB/tentacleC1/tentacleC/tentacleD1/tentacleD
+        weight: 1
+      - path: tentacleJ1/tentacleJ/tentacleA1/tentacleA/tentacleB1/tentacleB/tentacleC1/tentacleC/tentacleD1/tentacleD/tentacleE1
+        weight: 1
+      - path: tentacleJ1/tentacleJ/tentacleA1/tentacleA/tentacleB1/tentacleB/tentacleC1/tentacleC/tentacleD1/tentacleD/tentacleE1/tentacleE
+        weight: 1
+      - path: tentacleJ1/tentacleJ/tentacleA1/tentacleA/tentacleB1/tentacleB/tentacleC1/tentacleC/tentacleD1/tentacleD/tentacleE1/tentacleE/tentacleF1
+        weight: 1
+      - path: tentacleJ1/tentacleJ/tentacleA1/tentacleA/tentacleB1/tentacleB/tentacleC1/tentacleC/tentacleD1/tentacleD/tentacleE1/tentacleE/tentacleF1/tentacleF
+        weight: 1
+      - path: tentacleJ1/tentacleJ/tentacleA1/tentacleA/tentacleB1/tentacleB/tentacleC1/tentacleC/tentacleD1/tentacleD/tentacleE1/tentacleE/tentacleF1/tentacleF/tentacleG1
+        weight: 1
+      - path: tentacleJ1/tentacleJ/tentacleA1/tentacleA/tentacleB1/tentacleB/tentacleC1/tentacleC/tentacleD1/tentacleD/tentacleE1/tentacleE/tentacleF1/tentacleF/tentacleG1/tentacleG
+        weight: 1
+      - path: tentacleJ1/tentacleJ/tentacleA1/tentacleA/tentacleB1/tentacleB/tentacleC1/tentacleC/tentacleD1/tentacleD/tentacleE1/tentacleE/tentacleF1/tentacleF/tentacleG1/tentacleG/tentacleH1
+        weight: 1
+      - path: tentacleJ1/tentacleJ/tentacleA1/tentacleA/tentacleB1/tentacleB/tentacleC1/tentacleC/tentacleD1/tentacleD/tentacleE1/tentacleE/tentacleF1/tentacleF/tentacleG1/tentacleG/tentacleH1/tentacleH
+        weight: 1
+      - path: tentacleJ1/tentacleJ/tentacleA1/tentacleA/tentacleB1/tentacleB/tentacleC1/tentacleC/tentacleD1/tentacleD/tentacleE1/tentacleE/tentacleF1/tentacleF/tentacleG1/tentacleG/tentacleH1/tentacleH/tentacleI1
+        weight: 1
+      - path: tentacleJ1/tentacleJ/tentacleA1/tentacleA/tentacleB1/tentacleB/tentacleC1/tentacleC/tentacleD1/tentacleD/tentacleE1/tentacleE/tentacleF1/tentacleF/tentacleG1/tentacleG/tentacleH1/tentacleH/tentacleI1/tentacleI
+        weight: 1
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,177 @@
+Initialize engine version: 5.5.0x1-CollabPreview (09b457573f85)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.0]
+    Renderer: NVIDIA GeForce GTX 960M (ID=0x139b)
+    Vendor:   NVIDIA
+    VRAM:     2010 MB
+    Driver:   26.20.100.6951
+Begin MonoManager ReloadAssembly
+Platform assembly: C:\Users\glenp\Documents\Unity Projects\Atlantis\GGJ2017\Atlantis_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading C:\Users\glenp\Documents\Unity Projects\Atlantis\GGJ2017\Atlantis_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: C:\Users\glenp\Documents\Unity Projects\Atlantis\GGJ2017\Atlantis_Data\Managed\Assembly-CSharp-firstpass.dll (this message is harmless)
+Loading C:\Users\glenp\Documents\Unity Projects\Atlantis\GGJ2017\Atlantis_Data\Managed\Assembly-CSharp-firstpass.dll into Unity Child Domain
+Platform assembly: C:\Users\glenp\Documents\Unity Projects\Atlantis\GGJ2017\Atlantis_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading C:\Users\glenp\Documents\Unity Projects\Atlantis\GGJ2017\Atlantis_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: C:\Users\glenp\Documents\Unity Projects\Atlantis\GGJ2017\Atlantis_Data\Managed\Assembly-UnityScript.dll (this message is harmless)
+Loading C:\Users\glenp\Documents\Unity Projects\Atlantis\GGJ2017\Atlantis_Data\Managed\Assembly-UnityScript.dll into Unity Child Domain
+Platform assembly: C:\Users\glenp\Documents\Unity Projects\Atlantis\GGJ2017\Atlantis_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading C:\Users\glenp\Documents\Unity Projects\Atlantis\GGJ2017\Atlantis_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+Platform assembly: C:\Users\glenp\Documents\Unity Projects\Atlantis\GGJ2017\Atlantis_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
+Loading C:\Users\glenp\Documents\Unity Projects\Atlantis\GGJ2017\Atlantis_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
+Platform assembly: C:\Users\glenp\Documents\Unity Projects\Atlantis\GGJ2017\Atlantis_Data\Managed\UnityEngine.PlaymodeTestsRunner.dll (this message is harmless)
+Loading C:\Users\glenp\Documents\Unity Projects\Atlantis\GGJ2017\Atlantis_Data\Managed\UnityEngine.PlaymodeTestsRunner.dll into Unity Child Domain
+Platform assembly: C:\Users\glenp\Documents\Unity Projects\Atlantis\GGJ2017\Atlantis_Data\Managed\UnityEngine.Analytics.dll (this message is harmless)
+Loading C:\Users\glenp\Documents\Unity Projects\Atlantis\GGJ2017\Atlantis_Data\Managed\UnityEngine.Analytics.dll into Unity Child Domain
+Platform assembly: C:\Users\glenp\Documents\Unity Projects\Atlantis\GGJ2017\Atlantis_Data\Managed\DOTween.dll (this message is harmless)
+Loading C:\Users\glenp\Documents\Unity Projects\Atlantis\GGJ2017\Atlantis_Data\Managed\DOTween.dll into Unity Child Domain
+Platform assembly: C:\Users\glenp\Documents\Unity Projects\Atlantis\GGJ2017\Atlantis_Data\Managed\DOTween43.dll (this message is harmless)
+Loading C:\Users\glenp\Documents\Unity Projects\Atlantis\GGJ2017\Atlantis_Data\Managed\DOTween43.dll into Unity Child Domain
+Platform assembly: C:\Users\glenp\Documents\Unity Projects\Atlantis\GGJ2017\Atlantis_Data\Managed\DOTween46.dll (this message is harmless)
+Loading C:\Users\glenp\Documents\Unity Projects\Atlantis\GGJ2017\Atlantis_Data\Managed\DOTween46.dll into Unity Child Domain
+Platform assembly: C:\Users\glenp\Documents\Unity Projects\Atlantis\GGJ2017\Atlantis_Data\Managed\DOTween50.dll (this message is harmless)
+Loading C:\Users\glenp\Documents\Unity Projects\Atlantis\GGJ2017\Atlantis_Data\Managed\DOTween50.dll into Unity Child Domain
+Platform assembly: C:\Users\glenp\Documents\Unity Projects\Atlantis\GGJ2017\Atlantis_Data\Managed\Pathfinding.Ionic.Zip.Reduced.dll (this message is harmless)
+Loading C:\Users\glenp\Documents\Unity Projects\Atlantis\GGJ2017\Atlantis_Data\Managed\Pathfinding.Ionic.Zip.Reduced.dll into Unity Child Domain
+- Completed reload, in  0.112 seconds
+Platform assembly: C:\Users\glenp\Documents\Unity Projects\Atlantis\GGJ2017\Atlantis_Data\Managed\System.Core.dll (this message is harmless)
+Platform assembly: C:\Users\glenp\Documents\Unity Projects\Atlantis\GGJ2017\Atlantis_Data\Managed\System.dll (this message is harmless)
+desktop: 1920x1080 59Hz; virtual: 1920x1080 at 0,0
+<RI> Initializing input.
+<RI> Input initialized.
+<RI> Initialized touch support.
+UnloadTime: 1.942800 ms
+NullReferenceException: Object reference not set to an instance of an object
+  at VictoryScreen.OnEnable () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+Setting up 2 worker threads for Enlighten.
+  Thread -> id: 3fd8 -> priority: 1 
+  Thread -> id: 2808 -> priority: 1 
+GameStateManager start
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+GameState constructor
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+waiting for players to enter
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Player 2 enters game.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+LoadNextScene players: FalseTrueFalseFalse
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Unloading 6 Unused Serialized files (Serialized files now loaded: 0)
+The tree Mushroom must use the Nature/Soft Occlusion shader. Otherwise billboarding/lighting will not work correctly.
+ 
+(Filename:  Line: 140)
+
+
+Unloading 585 unused Assets to reduce memory usage. Loaded Objects now: 3206.
+Total: 2.057100 ms (FindLiveObjects: 0.146200 ms CreateObjectMapping: 0.061200 ms MarkObjects: 0.832500 ms  DeleteObjects: 1.016500 ms)
+
+Loading Player Models1
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+setting player number for controls 1
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Player 0 is RGBA(0.000, 0.000, 0.000, 1.000)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+creating camera
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Platform assembly: C:\Users\glenp\Documents\Unity Projects\Atlantis\GGJ2017\Atlantis_Data\Managed\Boo.Lang.dll (this message is harmless)
+onTriggerEnter SurfaceShip
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+onTriggerEnter SurfaceShip
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+make coin
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+make coin
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+make coin
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+make coin
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+make coin
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+make coin
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+make coin
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+make coin
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+make coin
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+make coin
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+make coin
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+make coin
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+make coin
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+make coin
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+make coin
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+make coin
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+make coin
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+make coin
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+

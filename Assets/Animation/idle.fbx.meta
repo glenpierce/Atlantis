@@ -1,0 +1,1224 @@
+fileFormatVersion: 2
+guid: 87819a5aade9ba947ae09ff1e1bbf112
+timeCreated: 1485098608
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: OCTO_BlendShape:joint1
+    100004: OCTO_BlendShape:joint10
+    100006: OCTO_BlendShape:joint100
+    100008: OCTO_BlendShape:joint101
+    100010: OCTO_BlendShape:joint102
+    100012: OCTO_BlendShape:joint103
+    100014: OCTO_BlendShape:joint104
+    100016: OCTO_BlendShape:joint105
+    100018: OCTO_BlendShape:joint106
+    100020: OCTO_BlendShape:joint107
+    100022: OCTO_BlendShape:joint108
+    100024: OCTO_BlendShape:joint109
+    100026: OCTO_BlendShape:joint11
+    100028: OCTO_BlendShape:joint110
+    100030: OCTO_BlendShape:joint111
+    100032: OCTO_BlendShape:joint112
+    100034: OCTO_BlendShape:joint113
+    100036: OCTO_BlendShape:joint114
+    100038: OCTO_BlendShape:joint115
+    100040: OCTO_BlendShape:joint116
+    100042: OCTO_BlendShape:joint117
+    100044: OCTO_BlendShape:joint118
+    100046: OCTO_BlendShape:joint119
+    100048: OCTO_BlendShape:joint12
+    100050: OCTO_BlendShape:joint120
+    100052: OCTO_BlendShape:joint121
+    100054: OCTO_BlendShape:joint122
+    100056: OCTO_BlendShape:joint123
+    100058: OCTO_BlendShape:joint124
+    100060: OCTO_BlendShape:joint125
+    100062: OCTO_BlendShape:joint126
+    100064: OCTO_BlendShape:joint127
+    100066: OCTO_BlendShape:joint128
+    100068: OCTO_BlendShape:joint129
+    100070: OCTO_BlendShape:joint13
+    100072: OCTO_BlendShape:joint130
+    100074: OCTO_BlendShape:joint131
+    100076: OCTO_BlendShape:joint132
+    100078: OCTO_BlendShape:joint133
+    100080: OCTO_BlendShape:joint134
+    100082: OCTO_BlendShape:joint135
+    100084: OCTO_BlendShape:joint136
+    100086: OCTO_BlendShape:joint137
+    100088: OCTO_BlendShape:joint138
+    100090: OCTO_BlendShape:joint139
+    100092: OCTO_BlendShape:joint14
+    100094: OCTO_BlendShape:joint140
+    100096: OCTO_BlendShape:joint141
+    100098: OCTO_BlendShape:joint142
+    100100: OCTO_BlendShape:joint143
+    100102: OCTO_BlendShape:joint144
+    100104: OCTO_BlendShape:joint145
+    100106: OCTO_BlendShape:joint146
+    100108: OCTO_BlendShape:joint147
+    100110: OCTO_BlendShape:joint148
+    100112: OCTO_BlendShape:joint149
+    100114: OCTO_BlendShape:joint15
+    100116: OCTO_BlendShape:joint150
+    100118: OCTO_BlendShape:joint151
+    100120: OCTO_BlendShape:joint152
+    100122: OCTO_BlendShape:joint153
+    100124: OCTO_BlendShape:joint154
+    100126: OCTO_BlendShape:joint155
+    100128: OCTO_BlendShape:joint156
+    100130: OCTO_BlendShape:joint157
+    100132: OCTO_BlendShape:joint158
+    100134: OCTO_BlendShape:joint159
+    100136: OCTO_BlendShape:joint16
+    100138: OCTO_BlendShape:joint160
+    100140: OCTO_BlendShape:joint17
+    100142: OCTO_BlendShape:joint18
+    100144: OCTO_BlendShape:joint19
+    100146: OCTO_BlendShape:joint2
+    100148: OCTO_BlendShape:joint20
+    100150: OCTO_BlendShape:joint21
+    100152: OCTO_BlendShape:joint22
+    100154: OCTO_BlendShape:joint23
+    100156: OCTO_BlendShape:joint24
+    100158: OCTO_BlendShape:joint25
+    100160: OCTO_BlendShape:joint26
+    100162: OCTO_BlendShape:joint27
+    100164: OCTO_BlendShape:joint28
+    100166: OCTO_BlendShape:joint29
+    100168: OCTO_BlendShape:joint3
+    100170: OCTO_BlendShape:joint30
+    100172: OCTO_BlendShape:joint31
+    100174: OCTO_BlendShape:joint32
+    100176: OCTO_BlendShape:joint33
+    100178: OCTO_BlendShape:joint34
+    100180: OCTO_BlendShape:joint35
+    100182: OCTO_BlendShape:joint36
+    100184: OCTO_BlendShape:joint37
+    100186: OCTO_BlendShape:joint38
+    100188: OCTO_BlendShape:joint39
+    100190: OCTO_BlendShape:joint4
+    100192: OCTO_BlendShape:joint40
+    100194: OCTO_BlendShape:joint41
+    100196: OCTO_BlendShape:joint42
+    100198: OCTO_BlendShape:joint43
+    100200: OCTO_BlendShape:joint44
+    100202: OCTO_BlendShape:joint45
+    100204: OCTO_BlendShape:joint46
+    100206: OCTO_BlendShape:joint47
+    100208: OCTO_BlendShape:joint48
+    100210: OCTO_BlendShape:joint49
+    100212: OCTO_BlendShape:joint5
+    100214: OCTO_BlendShape:joint50
+    100216: OCTO_BlendShape:joint51
+    100218: OCTO_BlendShape:joint52
+    100220: OCTO_BlendShape:joint53
+    100222: OCTO_BlendShape:joint54
+    100224: OCTO_BlendShape:joint55
+    100226: OCTO_BlendShape:joint56
+    100228: OCTO_BlendShape:joint57
+    100230: OCTO_BlendShape:joint58
+    100232: OCTO_BlendShape:joint59
+    100234: OCTO_BlendShape:joint6
+    100236: OCTO_BlendShape:joint60
+    100238: OCTO_BlendShape:joint61
+    100240: OCTO_BlendShape:joint62
+    100242: OCTO_BlendShape:joint63
+    100244: OCTO_BlendShape:joint64
+    100246: OCTO_BlendShape:joint65
+    100248: OCTO_BlendShape:joint66
+    100250: OCTO_BlendShape:joint67
+    100252: OCTO_BlendShape:joint68
+    100254: OCTO_BlendShape:joint69
+    100256: OCTO_BlendShape:joint7
+    100258: OCTO_BlendShape:joint70
+    100260: OCTO_BlendShape:joint71
+    100262: OCTO_BlendShape:joint72
+    100264: OCTO_BlendShape:joint73
+    100266: OCTO_BlendShape:joint74
+    100268: OCTO_BlendShape:joint75
+    100270: OCTO_BlendShape:joint76
+    100272: OCTO_BlendShape:joint77
+    100274: OCTO_BlendShape:joint78
+    100276: OCTO_BlendShape:joint79
+    100278: OCTO_BlendShape:joint8
+    100280: OCTO_BlendShape:joint80
+    100282: OCTO_BlendShape:joint81
+    100284: OCTO_BlendShape:joint82
+    100286: OCTO_BlendShape:joint83
+    100288: OCTO_BlendShape:joint84
+    100290: OCTO_BlendShape:joint85
+    100292: OCTO_BlendShape:joint86
+    100294: OCTO_BlendShape:joint87
+    100296: OCTO_BlendShape:joint88
+    100298: OCTO_BlendShape:joint89
+    100300: OCTO_BlendShape:joint9
+    100302: OCTO_BlendShape:joint90
+    100304: OCTO_BlendShape:joint91
+    100306: OCTO_BlendShape:joint92
+    100308: OCTO_BlendShape:joint93
+    100310: OCTO_BlendShape:joint94
+    100312: OCTO_BlendShape:joint95
+    100314: OCTO_BlendShape:joint96
+    100316: OCTO_BlendShape:joint97
+    100318: OCTO_BlendShape:joint98
+    100320: OCTO_BlendShape:joint99
+    100322: OCTO_BlendShape:leg01tenA
+    100324: OCTO_BlendShape:leg01tenA1
+    100326: OCTO_BlendShape:leg01tenB
+    100328: OCTO_BlendShape:leg01tenB1
+    100330: OCTO_BlendShape:leg01tenC
+    100332: OCTO_BlendShape:leg01tenC1
+    100334: OCTO_BlendShape:leg01tenD
+    100336: OCTO_BlendShape:leg01tenD1
+    100338: OCTO_BlendShape:leg01tenE
+    100340: OCTO_BlendShape:leg01tenE1
+    100342: OCTO_BlendShape:leg01tenF
+    100344: OCTO_BlendShape:leg01tenF1
+    100346: OCTO_BlendShape:leg02tenA
+    100348: OCTO_BlendShape:leg02tenA1
+    100350: OCTO_BlendShape:leg02tenB
+    100352: OCTO_BlendShape:leg02tenB1
+    100354: OCTO_BlendShape:leg02tenC
+    100356: OCTO_BlendShape:leg02tenC1
+    100358: OCTO_BlendShape:leg02tenD
+    100360: OCTO_BlendShape:leg02tenD1
+    100362: OCTO_BlendShape:leg02tenE
+    100364: OCTO_BlendShape:leg02tenE1
+    100366: OCTO_BlendShape:leg02tenF
+    100368: OCTO_BlendShape:leg02tenF1
+    100370: OCTO_BlendShape:leg03tenA
+    100372: OCTO_BlendShape:leg03tenA1
+    100374: OCTO_BlendShape:leg03tenB
+    100376: OCTO_BlendShape:leg03tenB1
+    100378: OCTO_BlendShape:leg03tenC
+    100380: OCTO_BlendShape:leg03tenC1
+    100382: OCTO_BlendShape:leg03tenD
+    100384: OCTO_BlendShape:leg03tenD1
+    100386: OCTO_BlendShape:leg03tenE
+    100388: OCTO_BlendShape:leg03tenE1
+    100390: OCTO_BlendShape:leg03tenF
+    100392: OCTO_BlendShape:leg03tenF1
+    100394: OCTO_BlendShape:leg04tenA
+    100396: OCTO_BlendShape:leg04tenA1
+    100398: OCTO_BlendShape:leg04tenB
+    100400: OCTO_BlendShape:leg04tenB1
+    100402: OCTO_BlendShape:leg04tenC
+    100404: OCTO_BlendShape:leg04tenC1
+    100406: OCTO_BlendShape:leg04tenD
+    100408: OCTO_BlendShape:leg04tenD1
+    100410: OCTO_BlendShape:leg04tenE
+    100412: OCTO_BlendShape:leg04tenE1
+    100414: OCTO_BlendShape:leg04tenF
+    100416: OCTO_BlendShape:leg04tenF1
+    100418: OCTO_BlendShape:leg05tenA
+    100420: OCTO_BlendShape:leg05tenA1
+    100422: OCTO_BlendShape:leg05tenB
+    100424: OCTO_BlendShape:leg05tenB1
+    100426: OCTO_BlendShape:leg05tenC
+    100428: OCTO_BlendShape:leg05tenC1
+    100430: OCTO_BlendShape:leg05tenD
+    100432: OCTO_BlendShape:leg05tenD1
+    100434: OCTO_BlendShape:leg05tenE
+    100436: OCTO_BlendShape:leg05tenE1
+    100438: OCTO_BlendShape:leg05tenF
+    100440: OCTO_BlendShape:leg05tenF1
+    100442: OCTO_BlendShape:leg06tenA
+    100444: OCTO_BlendShape:leg06tenA1
+    100446: OCTO_BlendShape:leg06tenB
+    100448: OCTO_BlendShape:leg06tenB1
+    100450: OCTO_BlendShape:leg06tenC
+    100452: OCTO_BlendShape:leg06tenC1
+    100454: OCTO_BlendShape:leg06tenD
+    100456: OCTO_BlendShape:leg06tenD1
+    100458: OCTO_BlendShape:leg06tenE
+    100460: OCTO_BlendShape:leg06tenE1
+    100462: OCTO_BlendShape:leg06tenF
+    100464: OCTO_BlendShape:leg06tenF1
+    100466: OCTO_BlendShape:leg07tenA
+    100468: OCTO_BlendShape:leg07tenA1
+    100470: OCTO_BlendShape:leg07tenB
+    100472: OCTO_BlendShape:leg07tenB1
+    100474: OCTO_BlendShape:leg07tenC
+    100476: OCTO_BlendShape:leg07tenC1
+    100478: OCTO_BlendShape:leg07tenD
+    100480: OCTO_BlendShape:leg07tenD1
+    100482: OCTO_BlendShape:leg07tenE
+    100484: OCTO_BlendShape:leg07tenE1
+    100486: OCTO_BlendShape:leg07tenF
+    100488: OCTO_BlendShape:leg07tenF1
+    100490: OCTO_BlendShape:leg08tenA
+    100492: OCTO_BlendShape:leg08tenA1
+    100494: OCTO_BlendShape:leg08tenB
+    100496: OCTO_BlendShape:leg08tenB1
+    100498: OCTO_BlendShape:leg08tenC
+    100500: OCTO_BlendShape:leg08tenC1
+    100502: OCTO_BlendShape:leg08tenD
+    100504: OCTO_BlendShape:leg08tenD1
+    100506: OCTO_BlendShape:leg08tenE
+    100508: OCTO_BlendShape:leg08tenE1
+    100510: OCTO_BlendShape:leg08tenf
+    100512: OCTO_BlendShape:leg08tenf1
+    100514: OCTO_BlendShape:lighting:Lighting_directionalLight1
+    100516: OCTO_BlendShape:lighting:Lighting_directionalLight2
+    100518: OCTO_BlendShape:lighting:Lighting_directionalLight3
+    100520: OCTO_BlendShape:Lights
+    100522: OCTO_BlendShape:nurbsCircle2
+    100524: OCTO_BlendShape:octo_COG
+    100526: OCTO_BlendShape:octo_cog
+    100528: OCTO_BlendShape:octo_cog1
+    100530: OCTO_BlendShape:octo_Head01
+    100532: OCTO_BlendShape:octo_head01
+    100534: OCTO_BlendShape:octo_head02
+    100536: OCTO_BlendShape:octo_head02 1
+    100538: OCTO_BlendShape:octo_Head03
+    100540: OCTO_BlendShape:octo_headA
+    100542: OCTO_BlendShape:Octo_hip
+    100544: OCTO_BlendShape:Octo_hip1
+    100546: OCTO_BlendShape:octo_local
+    100548: OCTO_BlendShape:octo_spine
+    100550: OCTO_BlendShape:octo_Spine01
+    100552: OCTO_BlendShape:octo_spine1
+    100554: OCTO_BlendShape:octo_world
+    100556: OCTO_BlendShape:octopus1
+    400000: //RootNode
+    400002: OCTO_BlendShape:joint1
+    400004: OCTO_BlendShape:joint10
+    400006: OCTO_BlendShape:joint100
+    400008: OCTO_BlendShape:joint101
+    400010: OCTO_BlendShape:joint102
+    400012: OCTO_BlendShape:joint103
+    400014: OCTO_BlendShape:joint104
+    400016: OCTO_BlendShape:joint105
+    400018: OCTO_BlendShape:joint106
+    400020: OCTO_BlendShape:joint107
+    400022: OCTO_BlendShape:joint108
+    400024: OCTO_BlendShape:joint109
+    400026: OCTO_BlendShape:joint11
+    400028: OCTO_BlendShape:joint110
+    400030: OCTO_BlendShape:joint111
+    400032: OCTO_BlendShape:joint112
+    400034: OCTO_BlendShape:joint113
+    400036: OCTO_BlendShape:joint114
+    400038: OCTO_BlendShape:joint115
+    400040: OCTO_BlendShape:joint116
+    400042: OCTO_BlendShape:joint117
+    400044: OCTO_BlendShape:joint118
+    400046: OCTO_BlendShape:joint119
+    400048: OCTO_BlendShape:joint12
+    400050: OCTO_BlendShape:joint120
+    400052: OCTO_BlendShape:joint121
+    400054: OCTO_BlendShape:joint122
+    400056: OCTO_BlendShape:joint123
+    400058: OCTO_BlendShape:joint124
+    400060: OCTO_BlendShape:joint125
+    400062: OCTO_BlendShape:joint126
+    400064: OCTO_BlendShape:joint127
+    400066: OCTO_BlendShape:joint128
+    400068: OCTO_BlendShape:joint129
+    400070: OCTO_BlendShape:joint13
+    400072: OCTO_BlendShape:joint130
+    400074: OCTO_BlendShape:joint131
+    400076: OCTO_BlendShape:joint132
+    400078: OCTO_BlendShape:joint133
+    400080: OCTO_BlendShape:joint134
+    400082: OCTO_BlendShape:joint135
+    400084: OCTO_BlendShape:joint136
+    400086: OCTO_BlendShape:joint137
+    400088: OCTO_BlendShape:joint138
+    400090: OCTO_BlendShape:joint139
+    400092: OCTO_BlendShape:joint14
+    400094: OCTO_BlendShape:joint140
+    400096: OCTO_BlendShape:joint141
+    400098: OCTO_BlendShape:joint142
+    400100: OCTO_BlendShape:joint143
+    400102: OCTO_BlendShape:joint144
+    400104: OCTO_BlendShape:joint145
+    400106: OCTO_BlendShape:joint146
+    400108: OCTO_BlendShape:joint147
+    400110: OCTO_BlendShape:joint148
+    400112: OCTO_BlendShape:joint149
+    400114: OCTO_BlendShape:joint15
+    400116: OCTO_BlendShape:joint150
+    400118: OCTO_BlendShape:joint151
+    400120: OCTO_BlendShape:joint152
+    400122: OCTO_BlendShape:joint153
+    400124: OCTO_BlendShape:joint154
+    400126: OCTO_BlendShape:joint155
+    400128: OCTO_BlendShape:joint156
+    400130: OCTO_BlendShape:joint157
+    400132: OCTO_BlendShape:joint158
+    400134: OCTO_BlendShape:joint159
+    400136: OCTO_BlendShape:joint16
+    400138: OCTO_BlendShape:joint160
+    400140: OCTO_BlendShape:joint17
+    400142: OCTO_BlendShape:joint18
+    400144: OCTO_BlendShape:joint19
+    400146: OCTO_BlendShape:joint2
+    400148: OCTO_BlendShape:joint20
+    400150: OCTO_BlendShape:joint21
+    400152: OCTO_BlendShape:joint22
+    400154: OCTO_BlendShape:joint23
+    400156: OCTO_BlendShape:joint24
+    400158: OCTO_BlendShape:joint25
+    400160: OCTO_BlendShape:joint26
+    400162: OCTO_BlendShape:joint27
+    400164: OCTO_BlendShape:joint28
+    400166: OCTO_BlendShape:joint29
+    400168: OCTO_BlendShape:joint3
+    400170: OCTO_BlendShape:joint30
+    400172: OCTO_BlendShape:joint31
+    400174: OCTO_BlendShape:joint32
+    400176: OCTO_BlendShape:joint33
+    400178: OCTO_BlendShape:joint34
+    400180: OCTO_BlendShape:joint35
+    400182: OCTO_BlendShape:joint36
+    400184: OCTO_BlendShape:joint37
+    400186: OCTO_BlendShape:joint38
+    400188: OCTO_BlendShape:joint39
+    400190: OCTO_BlendShape:joint4
+    400192: OCTO_BlendShape:joint40
+    400194: OCTO_BlendShape:joint41
+    400196: OCTO_BlendShape:joint42
+    400198: OCTO_BlendShape:joint43
+    400200: OCTO_BlendShape:joint44
+    400202: OCTO_BlendShape:joint45
+    400204: OCTO_BlendShape:joint46
+    400206: OCTO_BlendShape:joint47
+    400208: OCTO_BlendShape:joint48
+    400210: OCTO_BlendShape:joint49
+    400212: OCTO_BlendShape:joint5
+    400214: OCTO_BlendShape:joint50
+    400216: OCTO_BlendShape:joint51
+    400218: OCTO_BlendShape:joint52
+    400220: OCTO_BlendShape:joint53
+    400222: OCTO_BlendShape:joint54
+    400224: OCTO_BlendShape:joint55
+    400226: OCTO_BlendShape:joint56
+    400228: OCTO_BlendShape:joint57
+    400230: OCTO_BlendShape:joint58
+    400232: OCTO_BlendShape:joint59
+    400234: OCTO_BlendShape:joint6
+    400236: OCTO_BlendShape:joint60
+    400238: OCTO_BlendShape:joint61
+    400240: OCTO_BlendShape:joint62
+    400242: OCTO_BlendShape:joint63
+    400244: OCTO_BlendShape:joint64
+    400246: OCTO_BlendShape:joint65
+    400248: OCTO_BlendShape:joint66
+    400250: OCTO_BlendShape:joint67
+    400252: OCTO_BlendShape:joint68
+    400254: OCTO_BlendShape:joint69
+    400256: OCTO_BlendShape:joint7
+    400258: OCTO_BlendShape:joint70
+    400260: OCTO_BlendShape:joint71
+    400262: OCTO_BlendShape:joint72
+    400264: OCTO_BlendShape:joint73
+    400266: OCTO_BlendShape:joint74
+    400268: OCTO_BlendShape:joint75
+    400270: OCTO_BlendShape:joint76
+    400272: OCTO_BlendShape:joint77
+    400274: OCTO_BlendShape:joint78
+    400276: OCTO_BlendShape:joint79
+    400278: OCTO_BlendShape:joint8
+    400280: OCTO_BlendShape:joint80
+    400282: OCTO_BlendShape:joint81
+    400284: OCTO_BlendShape:joint82
+    400286: OCTO_BlendShape:joint83
+    400288: OCTO_BlendShape:joint84
+    400290: OCTO_BlendShape:joint85
+    400292: OCTO_BlendShape:joint86
+    400294: OCTO_BlendShape:joint87
+    400296: OCTO_BlendShape:joint88
+    400298: OCTO_BlendShape:joint89
+    400300: OCTO_BlendShape:joint9
+    400302: OCTO_BlendShape:joint90
+    400304: OCTO_BlendShape:joint91
+    400306: OCTO_BlendShape:joint92
+    400308: OCTO_BlendShape:joint93
+    400310: OCTO_BlendShape:joint94
+    400312: OCTO_BlendShape:joint95
+    400314: OCTO_BlendShape:joint96
+    400316: OCTO_BlendShape:joint97
+    400318: OCTO_BlendShape:joint98
+    400320: OCTO_BlendShape:joint99
+    400322: OCTO_BlendShape:leg01tenA
+    400324: OCTO_BlendShape:leg01tenA1
+    400326: OCTO_BlendShape:leg01tenB
+    400328: OCTO_BlendShape:leg01tenB1
+    400330: OCTO_BlendShape:leg01tenC
+    400332: OCTO_BlendShape:leg01tenC1
+    400334: OCTO_BlendShape:leg01tenD
+    400336: OCTO_BlendShape:leg01tenD1
+    400338: OCTO_BlendShape:leg01tenE
+    400340: OCTO_BlendShape:leg01tenE1
+    400342: OCTO_BlendShape:leg01tenF
+    400344: OCTO_BlendShape:leg01tenF1
+    400346: OCTO_BlendShape:leg02tenA
+    400348: OCTO_BlendShape:leg02tenA1
+    400350: OCTO_BlendShape:leg02tenB
+    400352: OCTO_BlendShape:leg02tenB1
+    400354: OCTO_BlendShape:leg02tenC
+    400356: OCTO_BlendShape:leg02tenC1
+    400358: OCTO_BlendShape:leg02tenD
+    400360: OCTO_BlendShape:leg02tenD1
+    400362: OCTO_BlendShape:leg02tenE
+    400364: OCTO_BlendShape:leg02tenE1
+    400366: OCTO_BlendShape:leg02tenF
+    400368: OCTO_BlendShape:leg02tenF1
+    400370: OCTO_BlendShape:leg03tenA
+    400372: OCTO_BlendShape:leg03tenA1
+    400374: OCTO_BlendShape:leg03tenB
+    400376: OCTO_BlendShape:leg03tenB1
+    400378: OCTO_BlendShape:leg03tenC
+    400380: OCTO_BlendShape:leg03tenC1
+    400382: OCTO_BlendShape:leg03tenD
+    400384: OCTO_BlendShape:leg03tenD1
+    400386: OCTO_BlendShape:leg03tenE
+    400388: OCTO_BlendShape:leg03tenE1
+    400390: OCTO_BlendShape:leg03tenF
+    400392: OCTO_BlendShape:leg03tenF1
+    400394: OCTO_BlendShape:leg04tenA
+    400396: OCTO_BlendShape:leg04tenA1
+    400398: OCTO_BlendShape:leg04tenB
+    400400: OCTO_BlendShape:leg04tenB1
+    400402: OCTO_BlendShape:leg04tenC
+    400404: OCTO_BlendShape:leg04tenC1
+    400406: OCTO_BlendShape:leg04tenD
+    400408: OCTO_BlendShape:leg04tenD1
+    400410: OCTO_BlendShape:leg04tenE
+    400412: OCTO_BlendShape:leg04tenE1
+    400414: OCTO_BlendShape:leg04tenF
+    400416: OCTO_BlendShape:leg04tenF1
+    400418: OCTO_BlendShape:leg05tenA
+    400420: OCTO_BlendShape:leg05tenA1
+    400422: OCTO_BlendShape:leg05tenB
+    400424: OCTO_BlendShape:leg05tenB1
+    400426: OCTO_BlendShape:leg05tenC
+    400428: OCTO_BlendShape:leg05tenC1
+    400430: OCTO_BlendShape:leg05tenD
+    400432: OCTO_BlendShape:leg05tenD1
+    400434: OCTO_BlendShape:leg05tenE
+    400436: OCTO_BlendShape:leg05tenE1
+    400438: OCTO_BlendShape:leg05tenF
+    400440: OCTO_BlendShape:leg05tenF1
+    400442: OCTO_BlendShape:leg06tenA
+    400444: OCTO_BlendShape:leg06tenA1
+    400446: OCTO_BlendShape:leg06tenB
+    400448: OCTO_BlendShape:leg06tenB1
+    400450: OCTO_BlendShape:leg06tenC
+    400452: OCTO_BlendShape:leg06tenC1
+    400454: OCTO_BlendShape:leg06tenD
+    400456: OCTO_BlendShape:leg06tenD1
+    400458: OCTO_BlendShape:leg06tenE
+    400460: OCTO_BlendShape:leg06tenE1
+    400462: OCTO_BlendShape:leg06tenF
+    400464: OCTO_BlendShape:leg06tenF1
+    400466: OCTO_BlendShape:leg07tenA
+    400468: OCTO_BlendShape:leg07tenA1
+    400470: OCTO_BlendShape:leg07tenB
+    400472: OCTO_BlendShape:leg07tenB1
+    400474: OCTO_BlendShape:leg07tenC
+    400476: OCTO_BlendShape:leg07tenC1
+    400478: OCTO_BlendShape:leg07tenD
+    400480: OCTO_BlendShape:leg07tenD1
+    400482: OCTO_BlendShape:leg07tenE
+    400484: OCTO_BlendShape:leg07tenE1
+    400486: OCTO_BlendShape:leg07tenF
+    400488: OCTO_BlendShape:leg07tenF1
+    400490: OCTO_BlendShape:leg08tenA
+    400492: OCTO_BlendShape:leg08tenA1
+    400494: OCTO_BlendShape:leg08tenB
+    400496: OCTO_BlendShape:leg08tenB1
+    400498: OCTO_BlendShape:leg08tenC
+    400500: OCTO_BlendShape:leg08tenC1
+    400502: OCTO_BlendShape:leg08tenD
+    400504: OCTO_BlendShape:leg08tenD1
+    400506: OCTO_BlendShape:leg08tenE
+    400508: OCTO_BlendShape:leg08tenE1
+    400510: OCTO_BlendShape:leg08tenf
+    400512: OCTO_BlendShape:leg08tenf1
+    400514: OCTO_BlendShape:lighting:Lighting_directionalLight1
+    400516: OCTO_BlendShape:lighting:Lighting_directionalLight2
+    400518: OCTO_BlendShape:lighting:Lighting_directionalLight3
+    400520: OCTO_BlendShape:Lights
+    400522: OCTO_BlendShape:nurbsCircle2
+    400524: OCTO_BlendShape:octo_COG
+    400526: OCTO_BlendShape:octo_cog
+    400528: OCTO_BlendShape:octo_cog1
+    400530: OCTO_BlendShape:octo_Head01
+    400532: OCTO_BlendShape:octo_head01
+    400534: OCTO_BlendShape:octo_head02
+    400536: OCTO_BlendShape:octo_head02 1
+    400538: OCTO_BlendShape:octo_Head03
+    400540: OCTO_BlendShape:octo_headA
+    400542: OCTO_BlendShape:Octo_hip
+    400544: OCTO_BlendShape:Octo_hip1
+    400546: OCTO_BlendShape:octo_local
+    400548: OCTO_BlendShape:octo_spine
+    400550: OCTO_BlendShape:octo_Spine01
+    400552: OCTO_BlendShape:octo_spine1
+    400554: OCTO_BlendShape:octo_world
+    400556: OCTO_BlendShape:octopus1
+    4300000: OCTO_BlendShape:octopus1
+    7400000: idle
+    9500000: //RootNode
+    13700000: OCTO_BlendShape:octopus1
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: idle
+      takeName: Take 001
+      firstFrame: 1
+      lastFrame: 60
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: OCTO_BlendShape:Lights
+        weight: 1
+      - path: OCTO_BlendShape:Lights/OCTO_BlendShape:lighting:Lighting_directionalLight1
+        weight: 1
+      - path: OCTO_BlendShape:Lights/OCTO_BlendShape:lighting:Lighting_directionalLight2
+        weight: 1
+      - path: OCTO_BlendShape:Lights/OCTO_BlendShape:lighting:Lighting_directionalLight3
+        weight: 1
+      - path: OCTO_BlendShape:octo_COG
+        weight: 1
+      - path: OCTO_BlendShape:octo_COG/OCTO_BlendShape:joint1
+        weight: 1
+      - path: OCTO_BlendShape:octo_COG/OCTO_BlendShape:joint1/OCTO_BlendShape:joint2
+        weight: 1
+      - path: OCTO_BlendShape:octo_COG/OCTO_BlendShape:joint1/OCTO_BlendShape:joint2/OCTO_BlendShape:joint3
+        weight: 1
+      - path: OCTO_BlendShape:octo_COG/OCTO_BlendShape:joint1/OCTO_BlendShape:joint2/OCTO_BlendShape:joint3/OCTO_BlendShape:joint4
+        weight: 1
+      - path: OCTO_BlendShape:octo_COG/OCTO_BlendShape:joint1/OCTO_BlendShape:joint2/OCTO_BlendShape:joint3/OCTO_BlendShape:joint4/OCTO_BlendShape:joint5
+        weight: 1
+      - path: OCTO_BlendShape:octo_COG/OCTO_BlendShape:joint1/OCTO_BlendShape:joint2/OCTO_BlendShape:joint3/OCTO_BlendShape:joint4/OCTO_BlendShape:joint5/OCTO_BlendShape:joint6
+        weight: 1
+      - path: OCTO_BlendShape:octo_COG/OCTO_BlendShape:joint1/OCTO_BlendShape:joint2/OCTO_BlendShape:joint3/OCTO_BlendShape:joint4/OCTO_BlendShape:joint5/OCTO_BlendShape:joint6/OCTO_BlendShape:joint7
+        weight: 1
+      - path: OCTO_BlendShape:octo_COG/OCTO_BlendShape:joint1/OCTO_BlendShape:joint2/OCTO_BlendShape:joint3/OCTO_BlendShape:joint4/OCTO_BlendShape:joint5/OCTO_BlendShape:joint6/OCTO_BlendShape:joint7/OCTO_BlendShape:joint8
+        weight: 1
+      - path: OCTO_BlendShape:octo_COG/OCTO_BlendShape:joint1/OCTO_BlendShape:joint2/OCTO_BlendShape:joint3/OCTO_BlendShape:joint4/OCTO_BlendShape:joint5/OCTO_BlendShape:joint6/OCTO_BlendShape:joint7/OCTO_BlendShape:joint8/OCTO_BlendShape:joint9
+        weight: 1
+      - path: OCTO_BlendShape:octo_COG/OCTO_BlendShape:joint1/OCTO_BlendShape:joint2/OCTO_BlendShape:joint3/OCTO_BlendShape:joint4/OCTO_BlendShape:joint5/OCTO_BlendShape:joint6/OCTO_BlendShape:joint7/OCTO_BlendShape:joint8/OCTO_BlendShape:joint9/OCTO_BlendShape:joint10
+        weight: 1
+      - path: OCTO_BlendShape:octo_COG/OCTO_BlendShape:joint1/OCTO_BlendShape:joint2/OCTO_BlendShape:joint3/OCTO_BlendShape:joint4/OCTO_BlendShape:joint5/OCTO_BlendShape:joint6/OCTO_BlendShape:joint7/OCTO_BlendShape:joint8/OCTO_BlendShape:joint9/OCTO_BlendShape:joint10/OCTO_BlendShape:joint11
+        weight: 1
+      - path: OCTO_BlendShape:octo_COG/OCTO_BlendShape:joint1/OCTO_BlendShape:joint2/OCTO_BlendShape:joint3/OCTO_BlendShape:joint4/OCTO_BlendShape:joint5/OCTO_BlendShape:joint6/OCTO_BlendShape:joint7/OCTO_BlendShape:joint8/OCTO_BlendShape:joint9/OCTO_BlendShape:joint10/OCTO_BlendShape:joint11/OCTO_BlendShape:joint12
+        weight: 1
+      - path: OCTO_BlendShape:octo_COG/OCTO_BlendShape:joint1/OCTO_BlendShape:joint2/OCTO_BlendShape:joint3/OCTO_BlendShape:joint4/OCTO_BlendShape:joint5/OCTO_BlendShape:joint6/OCTO_BlendShape:joint7/OCTO_BlendShape:joint8/OCTO_BlendShape:joint9/OCTO_BlendShape:joint10/OCTO_BlendShape:joint11/OCTO_BlendShape:joint12/OCTO_BlendShape:joint13
+        weight: 1
+      - path: OCTO_BlendShape:octo_COG/OCTO_BlendShape:joint1/OCTO_BlendShape:joint2/OCTO_BlendShape:joint3/OCTO_BlendShape:joint4/OCTO_BlendShape:joint5/OCTO_BlendShape:joint6/OCTO_BlendShape:joint7/OCTO_BlendShape:joint8/OCTO_BlendShape:joint9/OCTO_BlendShape:joint10/OCTO_BlendShape:joint11/OCTO_BlendShape:joint12/OCTO_BlendShape:joint13/OCTO_BlendShape:joint14
+        weight: 1
+      - path: OCTO_BlendShape:octo_COG/OCTO_BlendShape:joint1/OCTO_BlendShape:joint2/OCTO_BlendShape:joint3/OCTO_BlendShape:joint4/OCTO_BlendShape:joint5/OCTO_BlendShape:joint6/OCTO_BlendShape:joint7/OCTO_BlendShape:joint8/OCTO_BlendShape:joint9/OCTO_BlendShape:joint10/OCTO_BlendShape:joint11/OCTO_BlendShape:joint12/OCTO_BlendShape:joint13/OCTO_BlendShape:joint14/OCTO_BlendShape:joint15
+        weight: 1
+      - path: OCTO_BlendShape:octo_COG/OCTO_BlendShape:joint1/OCTO_BlendShape:joint2/OCTO_BlendShape:joint3/OCTO_BlendShape:joint4/OCTO_BlendShape:joint5/OCTO_BlendShape:joint6/OCTO_BlendShape:joint7/OCTO_BlendShape:joint8/OCTO_BlendShape:joint9/OCTO_BlendShape:joint10/OCTO_BlendShape:joint11/OCTO_BlendShape:joint12/OCTO_BlendShape:joint13/OCTO_BlendShape:joint14/OCTO_BlendShape:joint15/OCTO_BlendShape:joint16
+        weight: 1
+      - path: OCTO_BlendShape:octo_COG/OCTO_BlendShape:joint1/OCTO_BlendShape:joint2/OCTO_BlendShape:joint3/OCTO_BlendShape:joint4/OCTO_BlendShape:joint5/OCTO_BlendShape:joint6/OCTO_BlendShape:joint7/OCTO_BlendShape:joint8/OCTO_BlendShape:joint9/OCTO_BlendShape:joint10/OCTO_BlendShape:joint11/OCTO_BlendShape:joint12/OCTO_BlendShape:joint13/OCTO_BlendShape:joint14/OCTO_BlendShape:joint15/OCTO_BlendShape:joint16/OCTO_BlendShape:joint17
+        weight: 1
+      - path: OCTO_BlendShape:octo_COG/OCTO_BlendShape:joint1/OCTO_BlendShape:joint2/OCTO_BlendShape:joint3/OCTO_BlendShape:joint4/OCTO_BlendShape:joint5/OCTO_BlendShape:joint6/OCTO_BlendShape:joint7/OCTO_BlendShape:joint8/OCTO_BlendShape:joint9/OCTO_BlendShape:joint10/OCTO_BlendShape:joint11/OCTO_BlendShape:joint12/OCTO_BlendShape:joint13/OCTO_BlendShape:joint14/OCTO_BlendShape:joint15/OCTO_BlendShape:joint16/OCTO_BlendShape:joint17/OCTO_BlendShape:joint18
+        weight: 1
+      - path: OCTO_BlendShape:octo_COG/OCTO_BlendShape:joint1/OCTO_BlendShape:joint2/OCTO_BlendShape:joint3/OCTO_BlendShape:joint4/OCTO_BlendShape:joint5/OCTO_BlendShape:joint6/OCTO_BlendShape:joint7/OCTO_BlendShape:joint8/OCTO_BlendShape:joint9/OCTO_BlendShape:joint10/OCTO_BlendShape:joint11/OCTO_BlendShape:joint12/OCTO_BlendShape:joint13/OCTO_BlendShape:joint14/OCTO_BlendShape:joint15/OCTO_BlendShape:joint16/OCTO_BlendShape:joint17/OCTO_BlendShape:joint18/OCTO_BlendShape:joint19
+        weight: 1
+      - path: OCTO_BlendShape:octo_COG/OCTO_BlendShape:joint1/OCTO_BlendShape:joint2/OCTO_BlendShape:joint3/OCTO_BlendShape:joint4/OCTO_BlendShape:joint5/OCTO_BlendShape:joint6/OCTO_BlendShape:joint7/OCTO_BlendShape:joint8/OCTO_BlendShape:joint9/OCTO_BlendShape:joint10/OCTO_BlendShape:joint11/OCTO_BlendShape:joint12/OCTO_BlendShape:joint13/OCTO_BlendShape:joint14/OCTO_BlendShape:joint15/OCTO_BlendShape:joint16/OCTO_BlendShape:joint17/OCTO_BlendShape:joint18/OCTO_BlendShape:joint19/OCTO_BlendShape:joint20
+        weight: 1
+      - path: OCTO_BlendShape:octo_COG/OCTO_BlendShape:joint21
+        weight: 1
+      - path: OCTO_BlendShape:octo_COG/OCTO_BlendShape:joint21/OCTO_BlendShape:joint22
+        weight: 1
+      - path: OCTO_BlendShape:octo_COG/OCTO_BlendShape:joint21/OCTO_BlendShape:joint22/OCTO_BlendShape:joint23
+        weight: 1
+      - path: OCTO_BlendShape:octo_COG/OCTO_BlendShape:joint21/OCTO_BlendShape:joint22/OCTO_BlendShape:joint23/OCTO_BlendShape:joint24
+        weight: 1
+      - path: OCTO_BlendShape:octo_COG/OCTO_BlendShape:joint21/OCTO_BlendShape:joint22/OCTO_BlendShape:joint23/OCTO_BlendShape:joint24/OCTO_BlendShape:joint25
+        weight: 1
+      - path: OCTO_BlendShape:octo_COG/OCTO_BlendShape:joint21/OCTO_BlendShape:joint22/OCTO_BlendShape:joint23/OCTO_BlendShape:joint24/OCTO_BlendShape:joint25/OCTO_BlendShape:joint26
+        weight: 1
+      - path: OCTO_BlendShape:octo_COG/OCTO_BlendShape:joint21/OCTO_BlendShape:joint22/OCTO_BlendShape:joint23/OCTO_BlendShape:joint24/OCTO_BlendShape:joint25/OCTO_BlendShape:joint26/OCTO_BlendShape:joint27
+        weight: 1
+      - path: OCTO_BlendShape:octo_COG/OCTO_BlendShape:joint21/OCTO_BlendShape:joint22/OCTO_BlendShape:joint23/OCTO_BlendShape:joint24/OCTO_BlendShape:joint25/OCTO_BlendShape:joint26/OCTO_BlendShape:joint27/OCTO_BlendShape:joint28
+        weight: 1
+      - path: OCTO_BlendShape:octo_COG/OCTO_BlendShape:joint21/OCTO_BlendShape:joint22/OCTO_BlendShape:joint23/OCTO_BlendShape:joint24/OCTO_BlendShape:joint25/OCTO_BlendShape:joint26/OCTO_BlendShape:joint27/OCTO_BlendShape:joint28/OCTO_BlendShape:joint29
+        weight: 1
+      - path: OCTO_BlendShape:octo_COG/OCTO_BlendShape:joint21/OCTO_BlendShape:joint22/OCTO_BlendShape:joint23/OCTO_BlendShape:joint24/OCTO_BlendShape:joint25/OCTO_BlendShape:joint26/OCTO_BlendShape:joint27/OCTO_BlendShape:joint28/OCTO_BlendShape:joint29/OCTO_BlendShape:joint30
+        weight: 1
+      - path: OCTO_BlendShape:octo_COG/OCTO_BlendShape:joint21/OCTO_BlendShape:joint22/OCTO_BlendShape:joint23/OCTO_BlendShape:joint24/OCTO_BlendShape:joint25/OCTO_BlendShape:joint26/OCTO_BlendShape:joint27/OCTO_BlendShape:joint28/OCTO_BlendShape:joint29/OCTO_BlendShape:joint30/OCTO_BlendShape:joint31
+        weight: 1
+      - path: OCTO_BlendShape:octo_COG/OCTO_BlendShape:joint21/OCTO_BlendShape:joint22/OCTO_BlendShape:joint23/OCTO_BlendShape:joint24/OCTO_BlendShape:joint25/OCTO_BlendShape:joint26/OCTO_BlendShape:joint27/OCTO_BlendShape:joint28/OCTO_BlendShape:joint29/OCTO_BlendShape:joint30/OCTO_BlendShape:joint31/OCTO_BlendShape:joint32
+        weight: 1
+      - path: OCTO_BlendShape:octo_COG/OCTO_BlendShape:joint21/OCTO_BlendShape:joint22/OCTO_BlendShape:joint23/OCTO_BlendShape:joint24/OCTO_BlendShape:joint25/OCTO_BlendShape:joint26/OCTO_BlendShape:joint27/OCTO_BlendShape:joint28/OCTO_BlendShape:joint29/OCTO_BlendShape:joint30/OCTO_BlendShape:joint31/OCTO_BlendShape:joint32/OCTO_BlendShape:joint33
+        weight: 1
+      - path: OCTO_BlendShape:octo_COG/OCTO_BlendShape:joint21/OCTO_BlendShape:joint22/OCTO_BlendShape:joint23/OCTO_BlendShape:joint24/OCTO_BlendShape:joint25/OCTO_BlendShape:joint26/OCTO_BlendShape:joint27/OCTO_BlendShape:joint28/OCTO_BlendShape:joint29/OCTO_BlendShape:joint30/OCTO_BlendShape:joint31/OCTO_BlendShape:joint32/OCTO_BlendShape:joint33/OCTO_BlendShape:joint34
+        weight: 1
+      - path: OCTO_BlendShape:octo_COG/OCTO_BlendShape:joint21/OCTO_BlendShape:joint22/OCTO_BlendShape:joint23/OCTO_BlendShape:joint24/OCTO_BlendShape:joint25/OCTO_BlendShape:joint26/OCTO_BlendShape:joint27/OCTO_BlendShape:joint28/OCTO_BlendShape:joint29/OCTO_BlendShape:joint30/OCTO_BlendShape:joint31/OCTO_BlendShape:joint32/OCTO_BlendShape:joint33/OCTO_BlendShape:joint34/OCTO_BlendShape:joint35
+        weight: 1
+      - path: OCTO_BlendShape:octo_COG/OCTO_BlendShape:joint21/OCTO_BlendShape:joint22/OCTO_BlendShape:joint23/OCTO_BlendShape:joint24/OCTO_BlendShape:joint25/OCTO_BlendShape:joint26/OCTO_BlendShape:joint27/OCTO_BlendShape:joint28/OCTO_BlendShape:joint29/OCTO_BlendShape:joint30/OCTO_BlendShape:joint31/OCTO_BlendShape:joint32/OCTO_BlendShape:joint33/OCTO_BlendShape:joint34/OCTO_BlendShape:joint35/OCTO_BlendShape:joint36
+        weight: 1
+      - path: OCTO_BlendShape:octo_COG/OCTO_BlendShape:joint21/OCTO_BlendShape:joint22/OCTO_BlendShape:joint23/OCTO_BlendShape:joint24/OCTO_BlendShape:joint25/OCTO_BlendShape:joint26/OCTO_BlendShape:joint27/OCTO_BlendShape:joint28/OCTO_BlendShape:joint29/OCTO_BlendShape:joint30/OCTO_BlendShape:joint31/OCTO_BlendShape:joint32/OCTO_BlendShape:joint33/OCTO_BlendShape:joint34/OCTO_BlendShape:joint35/OCTO_BlendShape:joint36/OCTO_BlendShape:joint37
+        weight: 1
+      - path: OCTO_BlendShape:octo_COG/OCTO_BlendShape:joint21/OCTO_BlendShape:joint22/OCTO_BlendShape:joint23/OCTO_BlendShape:joint24/OCTO_BlendShape:joint25/OCTO_BlendShape:joint26/OCTO_BlendShape:joint27/OCTO_BlendShape:joint28/OCTO_BlendShape:joint29/OCTO_BlendShape:joint30/OCTO_BlendShape:joint31/OCTO_BlendShape:joint32/OCTO_BlendShape:joint33/OCTO_BlendShape:joint34/OCTO_BlendShape:joint35/OCTO_BlendShape:joint36/OCTO_BlendShape:joint37/OCTO_BlendShape:joint38
+        weight: 1
+      - path: OCTO_BlendShape:octo_COG/OCTO_BlendShape:joint21/OCTO_BlendShape:joint22/OCTO_BlendShape:joint23/OCTO_BlendShape:joint24/OCTO_BlendShape:joint25/OCTO_BlendShape:joint26/OCTO_BlendShape:joint27/OCTO_BlendShape:joint28/OCTO_BlendShape:joint29/OCTO_BlendShape:joint30/OCTO_BlendShape:joint31/OCTO_BlendShape:joint32/OCTO_BlendShape:joint33/OCTO_BlendShape:joint34/OCTO_BlendShape:joint35/OCTO_BlendShape:joint36/OCTO_BlendShape:joint37/OCTO_BlendShape:joint38/OCTO_BlendShape:joint39
+        weight: 1
+      - path: OCTO_BlendShape:octo_COG/OCTO_BlendShape:joint21/OCTO_BlendShape:joint22/OCTO_BlendShape:joint23/OCTO_BlendShape:joint24/OCTO_BlendShape:joint25/OCTO_BlendShape:joint26/OCTO_BlendShape:joint27/OCTO_BlendShape:joint28/OCTO_BlendShape:joint29/OCTO_BlendShape:joint30/OCTO_BlendShape:joint31/OCTO_BlendShape:joint32/OCTO_BlendShape:joint33/OCTO_BlendShape:joint34/OCTO_BlendShape:joint35/OCTO_BlendShape:joint36/OCTO_BlendShape:joint37/OCTO_BlendShape:joint38/OCTO_BlendShape:joint39/OCTO_BlendShape:joint40
+        weight: 1
+      - path: OCTO_BlendShape:octo_COG/OCTO_BlendShape:joint41
+        weight: 1
+      - path: OCTO_BlendShape:octo_COG/OCTO_BlendShape:joint41/OCTO_BlendShape:joint42
+        weight: 1
+      - path: OCTO_BlendShape:octo_COG/OCTO_BlendShape:joint41/OCTO_BlendShape:joint42/OCTO_BlendShape:joint43
+        weight: 1
+      - path: OCTO_BlendShape:octo_COG/OCTO_BlendShape:joint41/OCTO_BlendShape:joint42/OCTO_BlendShape:joint43/OCTO_BlendShape:joint44
+        weight: 1
+      - path: OCTO_BlendShape:octo_COG/OCTO_BlendShape:joint41/OCTO_BlendShape:joint42/OCTO_BlendShape:joint43/OCTO_BlendShape:joint44/OCTO_BlendShape:joint45
+        weight: 1
+      - path: OCTO_BlendShape:octo_COG/OCTO_BlendShape:joint41/OCTO_BlendShape:joint42/OCTO_BlendShape:joint43/OCTO_BlendShape:joint44/OCTO_BlendShape:joint45/OCTO_BlendShape:joint46
+        weight: 1
+      - path: OCTO_BlendShape:octo_COG/OCTO_BlendShape:joint41/OCTO_BlendShape:joint42/OCTO_BlendShape:joint43/OCTO_BlendShape:joint44/OCTO_BlendShape:joint45/OCTO_BlendShape:joint46/OCTO_BlendShape:joint47
+        weight: 1
+      - path: OCTO_BlendShape:octo_COG/OCTO_BlendShape:joint41/OCTO_BlendShape:joint42/OCTO_BlendShape:joint43/OCTO_BlendShape:joint44/OCTO_BlendShape:joint45/OCTO_BlendShape:joint46/OCTO_BlendShape:joint47/OCTO_BlendShape:joint48
+        weight: 1
+      - path: OCTO_BlendShape:octo_COG/OCTO_BlendShape:joint41/OCTO_BlendShape:joint42/OCTO_BlendShape:joint43/OCTO_BlendShape:joint44/OCTO_BlendShape:joint45/OCTO_BlendShape:joint46/OCTO_BlendShape:joint47/OCTO_BlendShape:joint48/OCTO_BlendShape:joint49
+        weight: 1
+      - path: OCTO_BlendShape:octo_COG/OCTO_BlendShape:joint41/OCTO_BlendShape:joint42/OCTO_BlendShape:joint43/OCTO_BlendShape:joint44/OCTO_BlendShape:joint45/OCTO_BlendShape:joint46/OCTO_BlendShape:joint47/OCTO_BlendShape:joint48/OCTO_BlendShape:joint49/OCTO_BlendShape:joint50
+        weight: 1
+      - path: OCTO_BlendShape:octo_COG/OCTO_BlendShape:joint41/OCTO_BlendShape:joint42/OCTO_BlendShape:joint43/OCTO_BlendShape:joint44/OCTO_BlendShape:joint45/OCTO_BlendShape:joint46/OCTO_BlendShape:joint47/OCTO_BlendShape:joint48/OCTO_BlendShape:joint49/OCTO_BlendShape:joint50/OCTO_BlendShape:joint51
+        weight: 1
+      - path: OCTO_BlendShape:octo_COG/OCTO_BlendShape:joint41/OCTO_BlendShape:joint42/OCTO_BlendShape:joint43/OCTO_BlendShape:joint44/OCTO_BlendShape:joint45/OCTO_BlendShape:joint46/OCTO_BlendShape:joint47/OCTO_BlendShape:joint48/OCTO_BlendShape:joint49/OCTO_BlendShape:joint50/OCTO_BlendShape:joint51/OCTO_BlendShape:joint52
+        weight: 1
+      - path: OCTO_BlendShape:octo_COG/OCTO_BlendShape:joint41/OCTO_BlendShape:joint42/OCTO_BlendShape:joint43/OCTO_BlendShape:joint44/OCTO_BlendShape:joint45/OCTO_BlendShape:joint46/OCTO_BlendShape:joint47/OCTO_BlendShape:joint48/OCTO_BlendShape:joint49/OCTO_BlendShape:joint50/OCTO_BlendShape:joint51/OCTO_BlendShape:joint52/OCTO_BlendShape:joint53
+        weight: 1
+      - path: OCTO_BlendShape:octo_COG/OCTO_BlendShape:joint41/OCTO_BlendShape:joint42/OCTO_BlendShape:joint43/OCTO_BlendShape:joint44/OCTO_BlendShape:joint45/OCTO_BlendShape:joint46/OCTO_BlendShape:joint47/OCTO_BlendShape:joint48/OCTO_BlendShape:joint49/OCTO_BlendShape:joint50/OCTO_BlendShape:joint51/OCTO_BlendShape:joint52/OCTO_BlendShape:joint53/OCTO_BlendShape:joint54
+        weight: 1
+      - path: OCTO_BlendShape:octo_COG/OCTO_BlendShape:joint41/OCTO_BlendShape:joint42/OCTO_BlendShape:joint43/OCTO_BlendShape:joint44/OCTO_BlendShape:joint45/OCTO_BlendShape:joint46/OCTO_BlendShape:joint47/OCTO_BlendShape:joint48/OCTO_BlendShape:joint49/OCTO_BlendShape:joint50/OCTO_BlendShape:joint51/OCTO_BlendShape:joint52/OCTO_BlendShape:joint53/OCTO_BlendShape:joint54/OCTO_BlendShape:joint55
+        weight: 1
+      - path: OCTO_BlendShape:octo_COG/OCTO_BlendShape:joint41/OCTO_BlendShape:joint42/OCTO_BlendShape:joint43/OCTO_BlendShape:joint44/OCTO_BlendShape:joint45/OCTO_BlendShape:joint46/OCTO_BlendShape:joint47/OCTO_BlendShape:joint48/OCTO_BlendShape:joint49/OCTO_BlendShape:joint50/OCTO_BlendShape:joint51/OCTO_BlendShape:joint52/OCTO_BlendShape:joint53/OCTO_BlendShape:joint54/OCTO_BlendShape:joint55/OCTO_BlendShape:joint56
+        weight: 1
+      - path: OCTO_BlendShape:octo_COG/OCTO_BlendShape:joint41/OCTO_BlendShape:joint42/OCTO_BlendShape:joint43/OCTO_BlendShape:joint44/OCTO_BlendShape:joint45/OCTO_BlendShape:joint46/OCTO_BlendShape:joint47/OCTO_BlendShape:joint48/OCTO_BlendShape:joint49/OCTO_BlendShape:joint50/OCTO_BlendShape:joint51/OCTO_BlendShape:joint52/OCTO_BlendShape:joint53/OCTO_BlendShape:joint54/OCTO_BlendShape:joint55/OCTO_BlendShape:joint56/OCTO_BlendShape:joint57
+        weight: 1
+      - path: OCTO_BlendShape:octo_COG/OCTO_BlendShape:joint41/OCTO_BlendShape:joint42/OCTO_BlendShape:joint43/OCTO_BlendShape:joint44/OCTO_BlendShape:joint45/OCTO_BlendShape:joint46/OCTO_BlendShape:joint47/OCTO_BlendShape:joint48/OCTO_BlendShape:joint49/OCTO_BlendShape:joint50/OCTO_BlendShape:joint51/OCTO_BlendShape:joint52/OCTO_BlendShape:joint53/OCTO_BlendShape:joint54/OCTO_BlendShape:joint55/OCTO_BlendShape:joint56/OCTO_BlendShape:joint57/OCTO_BlendShape:joint58
+        weight: 1
+      - path: OCTO_BlendShape:octo_COG/OCTO_BlendShape:joint41/OCTO_BlendShape:joint42/OCTO_BlendShape:joint43/OCTO_BlendShape:joint44/OCTO_BlendShape:joint45/OCTO_BlendShape:joint46/OCTO_BlendShape:joint47/OCTO_BlendShape:joint48/OCTO_BlendShape:joint49/OCTO_BlendShape:joint50/OCTO_BlendShape:joint51/OCTO_BlendShape:joint52/OCTO_BlendShape:joint53/OCTO_BlendShape:joint54/OCTO_BlendShape:joint55/OCTO_BlendShape:joint56/OCTO_BlendShape:joint57/OCTO_BlendShape:joint58/OCTO_BlendShape:joint59
+        weight: 1
+      - path: OCTO_BlendShape:octo_COG/OCTO_BlendShape:joint41/OCTO_BlendShape:joint42/OCTO_BlendShape:joint43/OCTO_BlendShape:joint44/OCTO_BlendShape:joint45/OCTO_BlendShape:joint46/OCTO_BlendShape:joint47/OCTO_BlendShape:joint48/OCTO_BlendShape:joint49/OCTO_BlendShape:joint50/OCTO_BlendShape:joint51/OCTO_BlendShape:joint52/OCTO_BlendShape:joint53/OCTO_BlendShape:joint54/OCTO_BlendShape:joint55/OCTO_BlendShape:joint56/OCTO_BlendShape:joint57/OCTO_BlendShape:joint58/OCTO_BlendShape:joint59/OCTO_BlendShape:joint60
+        weight: 1
+      - path: OCTO_BlendShape:octo_COG/OCTO_BlendShape:joint61
+        weight: 1
+      - path: OCTO_BlendShape:octo_COG/OCTO_BlendShape:joint61/OCTO_BlendShape:joint62
+        weight: 1
+      - path: OCTO_BlendShape:octo_COG/OCTO_BlendShape:joint61/OCTO_BlendShape:joint62/OCTO_BlendShape:joint63
+        weight: 1
+      - path: OCTO_BlendShape:octo_COG/OCTO_BlendShape:joint61/OCTO_BlendShape:joint62/OCTO_BlendShape:joint63/OCTO_BlendShape:joint64
+        weight: 1
+      - path: OCTO_BlendShape:octo_COG/OCTO_BlendShape:joint61/OCTO_BlendShape:joint62/OCTO_BlendShape:joint63/OCTO_BlendShape:joint64/OCTO_BlendShape:joint65
+        weight: 1
+      - path: OCTO_BlendShape:octo_COG/OCTO_BlendShape:joint61/OCTO_BlendShape:joint62/OCTO_BlendShape:joint63/OCTO_BlendShape:joint64/OCTO_BlendShape:joint65/OCTO_BlendShape:joint66
+        weight: 1
+      - path: OCTO_BlendShape:octo_COG/OCTO_BlendShape:joint61/OCTO_BlendShape:joint62/OCTO_BlendShape:joint63/OCTO_BlendShape:joint64/OCTO_BlendShape:joint65/OCTO_BlendShape:joint66/OCTO_BlendShape:joint67
+        weight: 1
+      - path: OCTO_BlendShape:octo_COG/OCTO_BlendShape:joint61/OCTO_BlendShape:joint62/OCTO_BlendShape:joint63/OCTO_BlendShape:joint64/OCTO_BlendShape:joint65/OCTO_BlendShape:joint66/OCTO_BlendShape:joint67/OCTO_BlendShape:joint68
+        weight: 1
+      - path: OCTO_BlendShape:octo_COG/OCTO_BlendShape:joint61/OCTO_BlendShape:joint62/OCTO_BlendShape:joint63/OCTO_BlendShape:joint64/OCTO_BlendShape:joint65/OCTO_BlendShape:joint66/OCTO_BlendShape:joint67/OCTO_BlendShape:joint68/OCTO_BlendShape:joint69
+        weight: 1
+      - path: OCTO_BlendShape:octo_COG/OCTO_BlendShape:joint61/OCTO_BlendShape:joint62/OCTO_BlendShape:joint63/OCTO_BlendShape:joint64/OCTO_BlendShape:joint65/OCTO_BlendShape:joint66/OCTO_BlendShape:joint67/OCTO_BlendShape:joint68/OCTO_BlendShape:joint69/OCTO_BlendShape:joint70
+        weight: 1
+      - path: OCTO_BlendShape:octo_COG/OCTO_BlendShape:joint61/OCTO_BlendShape:joint62/OCTO_BlendShape:joint63/OCTO_BlendShape:joint64/OCTO_BlendShape:joint65/OCTO_BlendShape:joint66/OCTO_BlendShape:joint67/OCTO_BlendShape:joint68/OCTO_BlendShape:joint69/OCTO_BlendShape:joint70/OCTO_BlendShape:joint71
+        weight: 1
+      - path: OCTO_BlendShape:octo_COG/OCTO_BlendShape:joint61/OCTO_BlendShape:joint62/OCTO_BlendShape:joint63/OCTO_BlendShape:joint64/OCTO_BlendShape:joint65/OCTO_BlendShape:joint66/OCTO_BlendShape:joint67/OCTO_BlendShape:joint68/OCTO_BlendShape:joint69/OCTO_BlendShape:joint70/OCTO_BlendShape:joint71/OCTO_BlendShape:joint72
+        weight: 1
+      - path: OCTO_BlendShape:octo_COG/OCTO_BlendShape:joint61/OCTO_BlendShape:joint62/OCTO_BlendShape:joint63/OCTO_BlendShape:joint64/OCTO_BlendShape:joint65/OCTO_BlendShape:joint66/OCTO_BlendShape:joint67/OCTO_BlendShape:joint68/OCTO_BlendShape:joint69/OCTO_BlendShape:joint70/OCTO_BlendShape:joint71/OCTO_BlendShape:joint72/OCTO_BlendShape:joint73
+        weight: 1
+      - path: OCTO_BlendShape:octo_COG/OCTO_BlendShape:joint61/OCTO_BlendShape:joint62/OCTO_BlendShape:joint63/OCTO_BlendShape:joint64/OCTO_BlendShape:joint65/OCTO_BlendShape:joint66/OCTO_BlendShape:joint67/OCTO_BlendShape:joint68/OCTO_BlendShape:joint69/OCTO_BlendShape:joint70/OCTO_BlendShape:joint71/OCTO_BlendShape:joint72/OCTO_BlendShape:joint73/OCTO_BlendShape:joint74
+        weight: 1
+      - path: OCTO_BlendShape:octo_COG/OCTO_BlendShape:joint61/OCTO_BlendShape:joint62/OCTO_BlendShape:joint63/OCTO_BlendShape:joint64/OCTO_BlendShape:joint65/OCTO_BlendShape:joint66/OCTO_BlendShape:joint67/OCTO_BlendShape:joint68/OCTO_BlendShape:joint69/OCTO_BlendShape:joint70/OCTO_BlendShape:joint71/OCTO_BlendShape:joint72/OCTO_BlendShape:joint73/OCTO_BlendShape:joint74/OCTO_BlendShape:joint75
+        weight: 1
+      - path: OCTO_BlendShape:octo_COG/OCTO_BlendShape:joint61/OCTO_BlendShape:joint62/OCTO_BlendShape:joint63/OCTO_BlendShape:joint64/OCTO_BlendShape:joint65/OCTO_BlendShape:joint66/OCTO_BlendShape:joint67/OCTO_BlendShape:joint68/OCTO_BlendShape:joint69/OCTO_BlendShape:joint70/OCTO_BlendShape:joint71/OCTO_BlendShape:joint72/OCTO_BlendShape:joint73/OCTO_BlendShape:joint74/OCTO_BlendShape:joint75/OCTO_BlendShape:joint76
+        weight: 1
+      - path: OCTO_BlendShape:octo_COG/OCTO_BlendShape:joint61/OCTO_BlendShape:joint62/OCTO_BlendShape:joint63/OCTO_BlendShape:joint64/OCTO_BlendShape:joint65/OCTO_BlendShape:joint66/OCTO_BlendShape:joint67/OCTO_BlendShape:joint68/OCTO_BlendShape:joint69/OCTO_BlendShape:joint70/OCTO_BlendShape:joint71/OCTO_BlendShape:joint72/OCTO_BlendShape:joint73/OCTO_BlendShape:joint74/OCTO_BlendShape:joint75/OCTO_BlendShape:joint76/OCTO_BlendShape:joint77
+        weight: 1
+      - path: OCTO_BlendShape:octo_COG/OCTO_BlendShape:joint61/OCTO_BlendShape:joint62/OCTO_BlendShape:joint63/OCTO_BlendShape:joint64/OCTO_BlendShape:joint65/OCTO_BlendShape:joint66/OCTO_BlendShape:joint67/OCTO_BlendShape:joint68/OCTO_BlendShape:joint69/OCTO_BlendShape:joint70/OCTO_BlendShape:joint71/OCTO_BlendShape:joint72/OCTO_BlendShape:joint73/OCTO_BlendShape:joint74/OCTO_BlendShape:joint75/OCTO_BlendShape:joint76/OCTO_BlendShape:joint77/OCTO_BlendShape:joint78
+        weight: 1
+      - path: OCTO_BlendShape:octo_COG/OCTO_BlendShape:joint61/OCTO_BlendShape:joint62/OCTO_BlendShape:joint63/OCTO_BlendShape:joint64/OCTO_BlendShape:joint65/OCTO_BlendShape:joint66/OCTO_BlendShape:joint67/OCTO_BlendShape:joint68/OCTO_BlendShape:joint69/OCTO_BlendShape:joint70/OCTO_BlendShape:joint71/OCTO_BlendShape:joint72/OCTO_BlendShape:joint73/OCTO_BlendShape:joint74/OCTO_BlendShape:joint75/OCTO_BlendShape:joint76/OCTO_BlendShape:joint77/OCTO_BlendShape:joint78/OCTO_BlendShape:joint79
+        weight: 1
+      - path: OCTO_BlendShape:octo_COG/OCTO_BlendShape:joint61/OCTO_BlendShape:joint62/OCTO_BlendShape:joint63/OCTO_BlendShape:joint64/OCTO_BlendShape:joint65/OCTO_BlendShape:joint66/OCTO_BlendShape:joint67/OCTO_BlendShape:joint68/OCTO_BlendShape:joint69/OCTO_BlendShape:joint70/OCTO_BlendShape:joint71/OCTO_BlendShape:joint72/OCTO_BlendShape:joint73/OCTO_BlendShape:joint74/OCTO_BlendShape:joint75/OCTO_BlendShape:joint76/OCTO_BlendShape:joint77/OCTO_BlendShape:joint78/OCTO_BlendShape:joint79/OCTO_BlendShape:joint80
+        weight: 1
+      - path: OCTO_BlendShape:octo_COG/OCTO_BlendShape:joint81
+        weight: 1
+      - path: OCTO_BlendShape:octo_COG/OCTO_BlendShape:joint81/OCTO_BlendShape:joint82
+        weight: 1
+      - path: OCTO_BlendShape:octo_COG/OCTO_BlendShape:joint81/OCTO_BlendShape:joint82/OCTO_BlendShape:joint83
+        weight: 1
+      - path: OCTO_BlendShape:octo_COG/OCTO_BlendShape:joint81/OCTO_BlendShape:joint82/OCTO_BlendShape:joint83/OCTO_BlendShape:joint84
+        weight: 1
+      - path: OCTO_BlendShape:octo_COG/OCTO_BlendShape:joint81/OCTO_BlendShape:joint82/OCTO_BlendShape:joint83/OCTO_BlendShape:joint84/OCTO_BlendShape:joint85
+        weight: 1
+      - path: OCTO_BlendShape:octo_COG/OCTO_BlendShape:joint81/OCTO_BlendShape:joint82/OCTO_BlendShape:joint83/OCTO_BlendShape:joint84/OCTO_BlendShape:joint85/OCTO_BlendShape:joint86
+        weight: 1
+      - path: OCTO_BlendShape:octo_COG/OCTO_BlendShape:joint81/OCTO_BlendShape:joint82/OCTO_BlendShape:joint83/OCTO_BlendShape:joint84/OCTO_BlendShape:joint85/OCTO_BlendShape:joint86/OCTO_BlendShape:joint87
+        weight: 1
+      - path: OCTO_BlendShape:octo_COG/OCTO_BlendShape:joint81/OCTO_BlendShape:joint82/OCTO_BlendShape:joint83/OCTO_BlendShape:joint84/OCTO_BlendShape:joint85/OCTO_BlendShape:joint86/OCTO_BlendShape:joint87/OCTO_BlendShape:joint88
+        weight: 1
+      - path: OCTO_BlendShape:octo_COG/OCTO_BlendShape:joint81/OCTO_BlendShape:joint82/OCTO_BlendShape:joint83/OCTO_BlendShape:joint84/OCTO_BlendShape:joint85/OCTO_BlendShape:joint86/OCTO_BlendShape:joint87/OCTO_BlendShape:joint88/OCTO_BlendShape:joint89
+        weight: 1
+      - path: OCTO_BlendShape:octo_COG/OCTO_BlendShape:joint81/OCTO_BlendShape:joint82/OCTO_BlendShape:joint83/OCTO_BlendShape:joint84/OCTO_BlendShape:joint85/OCTO_BlendShape:joint86/OCTO_BlendShape:joint87/OCTO_BlendShape:joint88/OCTO_BlendShape:joint89/OCTO_BlendShape:joint90
+        weight: 1
+      - path: OCTO_BlendShape:octo_COG/OCTO_BlendShape:joint81/OCTO_BlendShape:joint82/OCTO_BlendShape:joint83/OCTO_BlendShape:joint84/OCTO_BlendShape:joint85/OCTO_BlendShape:joint86/OCTO_BlendShape:joint87/OCTO_BlendShape:joint88/OCTO_BlendShape:joint89/OCTO_BlendShape:joint90/OCTO_BlendShape:joint91
+        weight: 1
+      - path: OCTO_BlendShape:octo_COG/OCTO_BlendShape:joint81/OCTO_BlendShape:joint82/OCTO_BlendShape:joint83/OCTO_BlendShape:joint84/OCTO_BlendShape:joint85/OCTO_BlendShape:joint86/OCTO_BlendShape:joint87/OCTO_BlendShape:joint88/OCTO_BlendShape:joint89/OCTO_BlendShape:joint90/OCTO_BlendShape:joint91/OCTO_BlendShape:joint92
+        weight: 1
+      - path: OCTO_BlendShape:octo_COG/OCTO_BlendShape:joint81/OCTO_BlendShape:joint82/OCTO_BlendShape:joint83/OCTO_BlendShape:joint84/OCTO_BlendShape:joint85/OCTO_BlendShape:joint86/OCTO_BlendShape:joint87/OCTO_BlendShape:joint88/OCTO_BlendShape:joint89/OCTO_BlendShape:joint90/OCTO_BlendShape:joint91/OCTO_BlendShape:joint92/OCTO_BlendShape:joint93
+        weight: 1
+      - path: OCTO_BlendShape:octo_COG/OCTO_BlendShape:joint81/OCTO_BlendShape:joint82/OCTO_BlendShape:joint83/OCTO_BlendShape:joint84/OCTO_BlendShape:joint85/OCTO_BlendShape:joint86/OCTO_BlendShape:joint87/OCTO_BlendShape:joint88/OCTO_BlendShape:joint89/OCTO_BlendShape:joint90/OCTO_BlendShape:joint91/OCTO_BlendShape:joint92/OCTO_BlendShape:joint93/OCTO_BlendShape:joint94
+        weight: 1
+      - path: OCTO_BlendShape:octo_COG/OCTO_BlendShape:joint81/OCTO_BlendShape:joint82/OCTO_BlendShape:joint83/OCTO_BlendShape:joint84/OCTO_BlendShape:joint85/OCTO_BlendShape:joint86/OCTO_BlendShape:joint87/OCTO_BlendShape:joint88/OCTO_BlendShape:joint89/OCTO_BlendShape:joint90/OCTO_BlendShape:joint91/OCTO_BlendShape:joint92/OCTO_BlendShape:joint93/OCTO_BlendShape:joint94/OCTO_BlendShape:joint95
+        weight: 1
+      - path: OCTO_BlendShape:octo_COG/OCTO_BlendShape:joint81/OCTO_BlendShape:joint82/OCTO_BlendShape:joint83/OCTO_BlendShape:joint84/OCTO_BlendShape:joint85/OCTO_BlendShape:joint86/OCTO_BlendShape:joint87/OCTO_BlendShape:joint88/OCTO_BlendShape:joint89/OCTO_BlendShape:joint90/OCTO_BlendShape:joint91/OCTO_BlendShape:joint92/OCTO_BlendShape:joint93/OCTO_BlendShape:joint94/OCTO_BlendShape:joint95/OCTO_BlendShape:joint96
+        weight: 1
+      - path: OCTO_BlendShape:octo_COG/OCTO_BlendShape:joint81/OCTO_BlendShape:joint82/OCTO_BlendShape:joint83/OCTO_BlendShape:joint84/OCTO_BlendShape:joint85/OCTO_BlendShape:joint86/OCTO_BlendShape:joint87/OCTO_BlendShape:joint88/OCTO_BlendShape:joint89/OCTO_BlendShape:joint90/OCTO_BlendShape:joint91/OCTO_BlendShape:joint92/OCTO_BlendShape:joint93/OCTO_BlendShape:joint94/OCTO_BlendShape:joint95/OCTO_BlendShape:joint96/OCTO_BlendShape:joint97
+        weight: 1
+      - path: OCTO_BlendShape:octo_COG/OCTO_BlendShape:joint81/OCTO_BlendShape:joint82/OCTO_BlendShape:joint83/OCTO_BlendShape:joint84/OCTO_BlendShape:joint85/OCTO_BlendShape:joint86/OCTO_BlendShape:joint87/OCTO_BlendShape:joint88/OCTO_BlendShape:joint89/OCTO_BlendShape:joint90/OCTO_BlendShape:joint91/OCTO_BlendShape:joint92/OCTO_BlendShape:joint93/OCTO_BlendShape:joint94/OCTO_BlendShape:joint95/OCTO_BlendShape:joint96/OCTO_BlendShape:joint97/OCTO_BlendShape:joint98
+        weight: 1
+      - path: OCTO_BlendShape:octo_COG/OCTO_BlendShape:joint81/OCTO_BlendShape:joint82/OCTO_BlendShape:joint83/OCTO_BlendShape:joint84/OCTO_BlendShape:joint85/OCTO_BlendShape:joint86/OCTO_BlendShape:joint87/OCTO_BlendShape:joint88/OCTO_BlendShape:joint89/OCTO_BlendShape:joint90/OCTO_BlendShape:joint91/OCTO_BlendShape:joint92/OCTO_BlendShape:joint93/OCTO_BlendShape:joint94/OCTO_BlendShape:joint95/OCTO_BlendShape:joint96/OCTO_BlendShape:joint97/OCTO_BlendShape:joint98/OCTO_BlendShape:joint99
+        weight: 1
+      - path: OCTO_BlendShape:octo_COG/OCTO_BlendShape:joint81/OCTO_BlendShape:joint82/OCTO_BlendShape:joint83/OCTO_BlendShape:joint84/OCTO_BlendShape:joint85/OCTO_BlendShape:joint86/OCTO_BlendShape:joint87/OCTO_BlendShape:joint88/OCTO_BlendShape:joint89/OCTO_BlendShape:joint90/OCTO_BlendShape:joint91/OCTO_BlendShape:joint92/OCTO_BlendShape:joint93/OCTO_BlendShape:joint94/OCTO_BlendShape:joint95/OCTO_BlendShape:joint96/OCTO_BlendShape:joint97/OCTO_BlendShape:joint98/OCTO_BlendShape:joint99/OCTO_BlendShape:joint100
+        weight: 1
+      - path: OCTO_BlendShape:octo_COG/OCTO_BlendShape:joint101
+        weight: 1
+      - path: OCTO_BlendShape:octo_COG/OCTO_BlendShape:joint101/OCTO_BlendShape:joint102
+        weight: 1
+      - path: OCTO_BlendShape:octo_COG/OCTO_BlendShape:joint101/OCTO_BlendShape:joint102/OCTO_BlendShape:joint103
+        weight: 1
+      - path: OCTO_BlendShape:octo_COG/OCTO_BlendShape:joint101/OCTO_BlendShape:joint102/OCTO_BlendShape:joint103/OCTO_BlendShape:joint104
+        weight: 1
+      - path: OCTO_BlendShape:octo_COG/OCTO_BlendShape:joint101/OCTO_BlendShape:joint102/OCTO_BlendShape:joint103/OCTO_BlendShape:joint104/OCTO_BlendShape:joint105
+        weight: 1
+      - path: OCTO_BlendShape:octo_COG/OCTO_BlendShape:joint101/OCTO_BlendShape:joint102/OCTO_BlendShape:joint103/OCTO_BlendShape:joint104/OCTO_BlendShape:joint105/OCTO_BlendShape:joint106
+        weight: 1
+      - path: OCTO_BlendShape:octo_COG/OCTO_BlendShape:joint101/OCTO_BlendShape:joint102/OCTO_BlendShape:joint103/OCTO_BlendShape:joint104/OCTO_BlendShape:joint105/OCTO_BlendShape:joint106/OCTO_BlendShape:joint107
+        weight: 1
+      - path: OCTO_BlendShape:octo_COG/OCTO_BlendShape:joint101/OCTO_BlendShape:joint102/OCTO_BlendShape:joint103/OCTO_BlendShape:joint104/OCTO_BlendShape:joint105/OCTO_BlendShape:joint106/OCTO_BlendShape:joint107/OCTO_BlendShape:joint108
+        weight: 1
+      - path: OCTO_BlendShape:octo_COG/OCTO_BlendShape:joint101/OCTO_BlendShape:joint102/OCTO_BlendShape:joint103/OCTO_BlendShape:joint104/OCTO_BlendShape:joint105/OCTO_BlendShape:joint106/OCTO_BlendShape:joint107/OCTO_BlendShape:joint108/OCTO_BlendShape:joint109
+        weight: 1
+      - path: OCTO_BlendShape:octo_COG/OCTO_BlendShape:joint101/OCTO_BlendShape:joint102/OCTO_BlendShape:joint103/OCTO_BlendShape:joint104/OCTO_BlendShape:joint105/OCTO_BlendShape:joint106/OCTO_BlendShape:joint107/OCTO_BlendShape:joint108/OCTO_BlendShape:joint109/OCTO_BlendShape:joint110
+        weight: 1
+      - path: OCTO_BlendShape:octo_COG/OCTO_BlendShape:joint101/OCTO_BlendShape:joint102/OCTO_BlendShape:joint103/OCTO_BlendShape:joint104/OCTO_BlendShape:joint105/OCTO_BlendShape:joint106/OCTO_BlendShape:joint107/OCTO_BlendShape:joint108/OCTO_BlendShape:joint109/OCTO_BlendShape:joint110/OCTO_BlendShape:joint111
+        weight: 1
+      - path: OCTO_BlendShape:octo_COG/OCTO_BlendShape:joint101/OCTO_BlendShape:joint102/OCTO_BlendShape:joint103/OCTO_BlendShape:joint104/OCTO_BlendShape:joint105/OCTO_BlendShape:joint106/OCTO_BlendShape:joint107/OCTO_BlendShape:joint108/OCTO_BlendShape:joint109/OCTO_BlendShape:joint110/OCTO_BlendShape:joint111/OCTO_BlendShape:joint112
+        weight: 1
+      - path: OCTO_BlendShape:octo_COG/OCTO_BlendShape:joint101/OCTO_BlendShape:joint102/OCTO_BlendShape:joint103/OCTO_BlendShape:joint104/OCTO_BlendShape:joint105/OCTO_BlendShape:joint106/OCTO_BlendShape:joint107/OCTO_BlendShape:joint108/OCTO_BlendShape:joint109/OCTO_BlendShape:joint110/OCTO_BlendShape:joint111/OCTO_BlendShape:joint112/OCTO_BlendShape:joint113
+        weight: 1
+      - path: OCTO_BlendShape:octo_COG/OCTO_BlendShape:joint101/OCTO_BlendShape:joint102/OCTO_BlendShape:joint103/OCTO_BlendShape:joint104/OCTO_BlendShape:joint105/OCTO_BlendShape:joint106/OCTO_BlendShape:joint107/OCTO_BlendShape:joint108/OCTO_BlendShape:joint109/OCTO_BlendShape:joint110/OCTO_BlendShape:joint111/OCTO_BlendShape:joint112/OCTO_BlendShape:joint113/OCTO_BlendShape:joint114
+        weight: 1
+      - path: OCTO_BlendShape:octo_COG/OCTO_BlendShape:joint101/OCTO_BlendShape:joint102/OCTO_BlendShape:joint103/OCTO_BlendShape:joint104/OCTO_BlendShape:joint105/OCTO_BlendShape:joint106/OCTO_BlendShape:joint107/OCTO_BlendShape:joint108/OCTO_BlendShape:joint109/OCTO_BlendShape:joint110/OCTO_BlendShape:joint111/OCTO_BlendShape:joint112/OCTO_BlendShape:joint113/OCTO_BlendShape:joint114/OCTO_BlendShape:joint115
+        weight: 1
+      - path: OCTO_BlendShape:octo_COG/OCTO_BlendShape:joint101/OCTO_BlendShape:joint102/OCTO_BlendShape:joint103/OCTO_BlendShape:joint104/OCTO_BlendShape:joint105/OCTO_BlendShape:joint106/OCTO_BlendShape:joint107/OCTO_BlendShape:joint108/OCTO_BlendShape:joint109/OCTO_BlendShape:joint110/OCTO_BlendShape:joint111/OCTO_BlendShape:joint112/OCTO_BlendShape:joint113/OCTO_BlendShape:joint114/OCTO_BlendShape:joint115/OCTO_BlendShape:joint116
+        weight: 1
+      - path: OCTO_BlendShape:octo_COG/OCTO_BlendShape:joint101/OCTO_BlendShape:joint102/OCTO_BlendShape:joint103/OCTO_BlendShape:joint104/OCTO_BlendShape:joint105/OCTO_BlendShape:joint106/OCTO_BlendShape:joint107/OCTO_BlendShape:joint108/OCTO_BlendShape:joint109/OCTO_BlendShape:joint110/OCTO_BlendShape:joint111/OCTO_BlendShape:joint112/OCTO_BlendShape:joint113/OCTO_BlendShape:joint114/OCTO_BlendShape:joint115/OCTO_BlendShape:joint116/OCTO_BlendShape:joint117
+        weight: 1
+      - path: OCTO_BlendShape:octo_COG/OCTO_BlendShape:joint101/OCTO_BlendShape:joint102/OCTO_BlendShape:joint103/OCTO_BlendShape:joint104/OCTO_BlendShape:joint105/OCTO_BlendShape:joint106/OCTO_BlendShape:joint107/OCTO_BlendShape:joint108/OCTO_BlendShape:joint109/OCTO_BlendShape:joint110/OCTO_BlendShape:joint111/OCTO_BlendShape:joint112/OCTO_BlendShape:joint113/OCTO_BlendShape:joint114/OCTO_BlendShape:joint115/OCTO_BlendShape:joint116/OCTO_BlendShape:joint117/OCTO_BlendShape:joint118
+        weight: 1
+      - path: OCTO_BlendShape:octo_COG/OCTO_BlendShape:joint101/OCTO_BlendShape:joint102/OCTO_BlendShape:joint103/OCTO_BlendShape:joint104/OCTO_BlendShape:joint105/OCTO_BlendShape:joint106/OCTO_BlendShape:joint107/OCTO_BlendShape:joint108/OCTO_BlendShape:joint109/OCTO_BlendShape:joint110/OCTO_BlendShape:joint111/OCTO_BlendShape:joint112/OCTO_BlendShape:joint113/OCTO_BlendShape:joint114/OCTO_BlendShape:joint115/OCTO_BlendShape:joint116/OCTO_BlendShape:joint117/OCTO_BlendShape:joint118/OCTO_BlendShape:joint119
+        weight: 1
+      - path: OCTO_BlendShape:octo_COG/OCTO_BlendShape:joint101/OCTO_BlendShape:joint102/OCTO_BlendShape:joint103/OCTO_BlendShape:joint104/OCTO_BlendShape:joint105/OCTO_BlendShape:joint106/OCTO_BlendShape:joint107/OCTO_BlendShape:joint108/OCTO_BlendShape:joint109/OCTO_BlendShape:joint110/OCTO_BlendShape:joint111/OCTO_BlendShape:joint112/OCTO_BlendShape:joint113/OCTO_BlendShape:joint114/OCTO_BlendShape:joint115/OCTO_BlendShape:joint116/OCTO_BlendShape:joint117/OCTO_BlendShape:joint118/OCTO_BlendShape:joint119/OCTO_BlendShape:joint120
+        weight: 1
+      - path: OCTO_BlendShape:octo_COG/OCTO_BlendShape:joint121
+        weight: 1
+      - path: OCTO_BlendShape:octo_COG/OCTO_BlendShape:joint121/OCTO_BlendShape:joint122
+        weight: 1
+      - path: OCTO_BlendShape:octo_COG/OCTO_BlendShape:joint121/OCTO_BlendShape:joint122/OCTO_BlendShape:joint123
+        weight: 1
+      - path: OCTO_BlendShape:octo_COG/OCTO_BlendShape:joint121/OCTO_BlendShape:joint122/OCTO_BlendShape:joint123/OCTO_BlendShape:joint124
+        weight: 1
+      - path: OCTO_BlendShape:octo_COG/OCTO_BlendShape:joint121/OCTO_BlendShape:joint122/OCTO_BlendShape:joint123/OCTO_BlendShape:joint124/OCTO_BlendShape:joint125
+        weight: 1
+      - path: OCTO_BlendShape:octo_COG/OCTO_BlendShape:joint121/OCTO_BlendShape:joint122/OCTO_BlendShape:joint123/OCTO_BlendShape:joint124/OCTO_BlendShape:joint125/OCTO_BlendShape:joint126
+        weight: 1
+      - path: OCTO_BlendShape:octo_COG/OCTO_BlendShape:joint121/OCTO_BlendShape:joint122/OCTO_BlendShape:joint123/OCTO_BlendShape:joint124/OCTO_BlendShape:joint125/OCTO_BlendShape:joint126/OCTO_BlendShape:joint127
+        weight: 1
+      - path: OCTO_BlendShape:octo_COG/OCTO_BlendShape:joint121/OCTO_BlendShape:joint122/OCTO_BlendShape:joint123/OCTO_BlendShape:joint124/OCTO_BlendShape:joint125/OCTO_BlendShape:joint126/OCTO_BlendShape:joint127/OCTO_BlendShape:joint128
+        weight: 1
+      - path: OCTO_BlendShape:octo_COG/OCTO_BlendShape:joint121/OCTO_BlendShape:joint122/OCTO_BlendShape:joint123/OCTO_BlendShape:joint124/OCTO_BlendShape:joint125/OCTO_BlendShape:joint126/OCTO_BlendShape:joint127/OCTO_BlendShape:joint128/OCTO_BlendShape:joint129
+        weight: 1
+      - path: OCTO_BlendShape:octo_COG/OCTO_BlendShape:joint121/OCTO_BlendShape:joint122/OCTO_BlendShape:joint123/OCTO_BlendShape:joint124/OCTO_BlendShape:joint125/OCTO_BlendShape:joint126/OCTO_BlendShape:joint127/OCTO_BlendShape:joint128/OCTO_BlendShape:joint129/OCTO_BlendShape:joint130
+        weight: 1
+      - path: OCTO_BlendShape:octo_COG/OCTO_BlendShape:joint121/OCTO_BlendShape:joint122/OCTO_BlendShape:joint123/OCTO_BlendShape:joint124/OCTO_BlendShape:joint125/OCTO_BlendShape:joint126/OCTO_BlendShape:joint127/OCTO_BlendShape:joint128/OCTO_BlendShape:joint129/OCTO_BlendShape:joint130/OCTO_BlendShape:joint131
+        weight: 1
+      - path: OCTO_BlendShape:octo_COG/OCTO_BlendShape:joint121/OCTO_BlendShape:joint122/OCTO_BlendShape:joint123/OCTO_BlendShape:joint124/OCTO_BlendShape:joint125/OCTO_BlendShape:joint126/OCTO_BlendShape:joint127/OCTO_BlendShape:joint128/OCTO_BlendShape:joint129/OCTO_BlendShape:joint130/OCTO_BlendShape:joint131/OCTO_BlendShape:joint132
+        weight: 1
+      - path: OCTO_BlendShape:octo_COG/OCTO_BlendShape:joint121/OCTO_BlendShape:joint122/OCTO_BlendShape:joint123/OCTO_BlendShape:joint124/OCTO_BlendShape:joint125/OCTO_BlendShape:joint126/OCTO_BlendShape:joint127/OCTO_BlendShape:joint128/OCTO_BlendShape:joint129/OCTO_BlendShape:joint130/OCTO_BlendShape:joint131/OCTO_BlendShape:joint132/OCTO_BlendShape:joint133
+        weight: 1
+      - path: OCTO_BlendShape:octo_COG/OCTO_BlendShape:joint121/OCTO_BlendShape:joint122/OCTO_BlendShape:joint123/OCTO_BlendShape:joint124/OCTO_BlendShape:joint125/OCTO_BlendShape:joint126/OCTO_BlendShape:joint127/OCTO_BlendShape:joint128/OCTO_BlendShape:joint129/OCTO_BlendShape:joint130/OCTO_BlendShape:joint131/OCTO_BlendShape:joint132/OCTO_BlendShape:joint133/OCTO_BlendShape:joint134
+        weight: 1
+      - path: OCTO_BlendShape:octo_COG/OCTO_BlendShape:joint121/OCTO_BlendShape:joint122/OCTO_BlendShape:joint123/OCTO_BlendShape:joint124/OCTO_BlendShape:joint125/OCTO_BlendShape:joint126/OCTO_BlendShape:joint127/OCTO_BlendShape:joint128/OCTO_BlendShape:joint129/OCTO_BlendShape:joint130/OCTO_BlendShape:joint131/OCTO_BlendShape:joint132/OCTO_BlendShape:joint133/OCTO_BlendShape:joint134/OCTO_BlendShape:joint135
+        weight: 1
+      - path: OCTO_BlendShape:octo_COG/OCTO_BlendShape:joint121/OCTO_BlendShape:joint122/OCTO_BlendShape:joint123/OCTO_BlendShape:joint124/OCTO_BlendShape:joint125/OCTO_BlendShape:joint126/OCTO_BlendShape:joint127/OCTO_BlendShape:joint128/OCTO_BlendShape:joint129/OCTO_BlendShape:joint130/OCTO_BlendShape:joint131/OCTO_BlendShape:joint132/OCTO_BlendShape:joint133/OCTO_BlendShape:joint134/OCTO_BlendShape:joint135/OCTO_BlendShape:joint136
+        weight: 1
+      - path: OCTO_BlendShape:octo_COG/OCTO_BlendShape:joint121/OCTO_BlendShape:joint122/OCTO_BlendShape:joint123/OCTO_BlendShape:joint124/OCTO_BlendShape:joint125/OCTO_BlendShape:joint126/OCTO_BlendShape:joint127/OCTO_BlendShape:joint128/OCTO_BlendShape:joint129/OCTO_BlendShape:joint130/OCTO_BlendShape:joint131/OCTO_BlendShape:joint132/OCTO_BlendShape:joint133/OCTO_BlendShape:joint134/OCTO_BlendShape:joint135/OCTO_BlendShape:joint136/OCTO_BlendShape:joint137
+        weight: 1
+      - path: OCTO_BlendShape:octo_COG/OCTO_BlendShape:joint121/OCTO_BlendShape:joint122/OCTO_BlendShape:joint123/OCTO_BlendShape:joint124/OCTO_BlendShape:joint125/OCTO_BlendShape:joint126/OCTO_BlendShape:joint127/OCTO_BlendShape:joint128/OCTO_BlendShape:joint129/OCTO_BlendShape:joint130/OCTO_BlendShape:joint131/OCTO_BlendShape:joint132/OCTO_BlendShape:joint133/OCTO_BlendShape:joint134/OCTO_BlendShape:joint135/OCTO_BlendShape:joint136/OCTO_BlendShape:joint137/OCTO_BlendShape:joint138
+        weight: 1
+      - path: OCTO_BlendShape:octo_COG/OCTO_BlendShape:joint121/OCTO_BlendShape:joint122/OCTO_BlendShape:joint123/OCTO_BlendShape:joint124/OCTO_BlendShape:joint125/OCTO_BlendShape:joint126/OCTO_BlendShape:joint127/OCTO_BlendShape:joint128/OCTO_BlendShape:joint129/OCTO_BlendShape:joint130/OCTO_BlendShape:joint131/OCTO_BlendShape:joint132/OCTO_BlendShape:joint133/OCTO_BlendShape:joint134/OCTO_BlendShape:joint135/OCTO_BlendShape:joint136/OCTO_BlendShape:joint137/OCTO_BlendShape:joint138/OCTO_BlendShape:joint139
+        weight: 1
+      - path: OCTO_BlendShape:octo_COG/OCTO_BlendShape:joint121/OCTO_BlendShape:joint122/OCTO_BlendShape:joint123/OCTO_BlendShape:joint124/OCTO_BlendShape:joint125/OCTO_BlendShape:joint126/OCTO_BlendShape:joint127/OCTO_BlendShape:joint128/OCTO_BlendShape:joint129/OCTO_BlendShape:joint130/OCTO_BlendShape:joint131/OCTO_BlendShape:joint132/OCTO_BlendShape:joint133/OCTO_BlendShape:joint134/OCTO_BlendShape:joint135/OCTO_BlendShape:joint136/OCTO_BlendShape:joint137/OCTO_BlendShape:joint138/OCTO_BlendShape:joint139/OCTO_BlendShape:joint140
+        weight: 1
+      - path: OCTO_BlendShape:octo_COG/OCTO_BlendShape:joint141
+        weight: 1
+      - path: OCTO_BlendShape:octo_COG/OCTO_BlendShape:joint141/OCTO_BlendShape:joint142
+        weight: 1
+      - path: OCTO_BlendShape:octo_COG/OCTO_BlendShape:joint141/OCTO_BlendShape:joint142/OCTO_BlendShape:joint143
+        weight: 1
+      - path: OCTO_BlendShape:octo_COG/OCTO_BlendShape:joint141/OCTO_BlendShape:joint142/OCTO_BlendShape:joint143/OCTO_BlendShape:joint144
+        weight: 1
+      - path: OCTO_BlendShape:octo_COG/OCTO_BlendShape:joint141/OCTO_BlendShape:joint142/OCTO_BlendShape:joint143/OCTO_BlendShape:joint144/OCTO_BlendShape:joint145
+        weight: 1
+      - path: OCTO_BlendShape:octo_COG/OCTO_BlendShape:joint141/OCTO_BlendShape:joint142/OCTO_BlendShape:joint143/OCTO_BlendShape:joint144/OCTO_BlendShape:joint145/OCTO_BlendShape:joint146
+        weight: 1
+      - path: OCTO_BlendShape:octo_COG/OCTO_BlendShape:joint141/OCTO_BlendShape:joint142/OCTO_BlendShape:joint143/OCTO_BlendShape:joint144/OCTO_BlendShape:joint145/OCTO_BlendShape:joint146/OCTO_BlendShape:joint147
+        weight: 1
+      - path: OCTO_BlendShape:octo_COG/OCTO_BlendShape:joint141/OCTO_BlendShape:joint142/OCTO_BlendShape:joint143/OCTO_BlendShape:joint144/OCTO_BlendShape:joint145/OCTO_BlendShape:joint146/OCTO_BlendShape:joint147/OCTO_BlendShape:joint148
+        weight: 1
+      - path: OCTO_BlendShape:octo_COG/OCTO_BlendShape:joint141/OCTO_BlendShape:joint142/OCTO_BlendShape:joint143/OCTO_BlendShape:joint144/OCTO_BlendShape:joint145/OCTO_BlendShape:joint146/OCTO_BlendShape:joint147/OCTO_BlendShape:joint148/OCTO_BlendShape:joint149
+        weight: 1
+      - path: OCTO_BlendShape:octo_COG/OCTO_BlendShape:joint141/OCTO_BlendShape:joint142/OCTO_BlendShape:joint143/OCTO_BlendShape:joint144/OCTO_BlendShape:joint145/OCTO_BlendShape:joint146/OCTO_BlendShape:joint147/OCTO_BlendShape:joint148/OCTO_BlendShape:joint149/OCTO_BlendShape:joint150
+        weight: 1
+      - path: OCTO_BlendShape:octo_COG/OCTO_BlendShape:joint141/OCTO_BlendShape:joint142/OCTO_BlendShape:joint143/OCTO_BlendShape:joint144/OCTO_BlendShape:joint145/OCTO_BlendShape:joint146/OCTO_BlendShape:joint147/OCTO_BlendShape:joint148/OCTO_BlendShape:joint149/OCTO_BlendShape:joint150/OCTO_BlendShape:joint151
+        weight: 1
+      - path: OCTO_BlendShape:octo_COG/OCTO_BlendShape:joint141/OCTO_BlendShape:joint142/OCTO_BlendShape:joint143/OCTO_BlendShape:joint144/OCTO_BlendShape:joint145/OCTO_BlendShape:joint146/OCTO_BlendShape:joint147/OCTO_BlendShape:joint148/OCTO_BlendShape:joint149/OCTO_BlendShape:joint150/OCTO_BlendShape:joint151/OCTO_BlendShape:joint152
+        weight: 1
+      - path: OCTO_BlendShape:octo_COG/OCTO_BlendShape:joint141/OCTO_BlendShape:joint142/OCTO_BlendShape:joint143/OCTO_BlendShape:joint144/OCTO_BlendShape:joint145/OCTO_BlendShape:joint146/OCTO_BlendShape:joint147/OCTO_BlendShape:joint148/OCTO_BlendShape:joint149/OCTO_BlendShape:joint150/OCTO_BlendShape:joint151/OCTO_BlendShape:joint152/OCTO_BlendShape:joint153
+        weight: 1
+      - path: OCTO_BlendShape:octo_COG/OCTO_BlendShape:joint141/OCTO_BlendShape:joint142/OCTO_BlendShape:joint143/OCTO_BlendShape:joint144/OCTO_BlendShape:joint145/OCTO_BlendShape:joint146/OCTO_BlendShape:joint147/OCTO_BlendShape:joint148/OCTO_BlendShape:joint149/OCTO_BlendShape:joint150/OCTO_BlendShape:joint151/OCTO_BlendShape:joint152/OCTO_BlendShape:joint153/OCTO_BlendShape:joint154
+        weight: 1
+      - path: OCTO_BlendShape:octo_COG/OCTO_BlendShape:joint141/OCTO_BlendShape:joint142/OCTO_BlendShape:joint143/OCTO_BlendShape:joint144/OCTO_BlendShape:joint145/OCTO_BlendShape:joint146/OCTO_BlendShape:joint147/OCTO_BlendShape:joint148/OCTO_BlendShape:joint149/OCTO_BlendShape:joint150/OCTO_BlendShape:joint151/OCTO_BlendShape:joint152/OCTO_BlendShape:joint153/OCTO_BlendShape:joint154/OCTO_BlendShape:joint155
+        weight: 1
+      - path: OCTO_BlendShape:octo_COG/OCTO_BlendShape:joint141/OCTO_BlendShape:joint142/OCTO_BlendShape:joint143/OCTO_BlendShape:joint144/OCTO_BlendShape:joint145/OCTO_BlendShape:joint146/OCTO_BlendShape:joint147/OCTO_BlendShape:joint148/OCTO_BlendShape:joint149/OCTO_BlendShape:joint150/OCTO_BlendShape:joint151/OCTO_BlendShape:joint152/OCTO_BlendShape:joint153/OCTO_BlendShape:joint154/OCTO_BlendShape:joint155/OCTO_BlendShape:joint156
+        weight: 1
+      - path: OCTO_BlendShape:octo_COG/OCTO_BlendShape:joint141/OCTO_BlendShape:joint142/OCTO_BlendShape:joint143/OCTO_BlendShape:joint144/OCTO_BlendShape:joint145/OCTO_BlendShape:joint146/OCTO_BlendShape:joint147/OCTO_BlendShape:joint148/OCTO_BlendShape:joint149/OCTO_BlendShape:joint150/OCTO_BlendShape:joint151/OCTO_BlendShape:joint152/OCTO_BlendShape:joint153/OCTO_BlendShape:joint154/OCTO_BlendShape:joint155/OCTO_BlendShape:joint156/OCTO_BlendShape:joint157
+        weight: 1
+      - path: OCTO_BlendShape:octo_COG/OCTO_BlendShape:joint141/OCTO_BlendShape:joint142/OCTO_BlendShape:joint143/OCTO_BlendShape:joint144/OCTO_BlendShape:joint145/OCTO_BlendShape:joint146/OCTO_BlendShape:joint147/OCTO_BlendShape:joint148/OCTO_BlendShape:joint149/OCTO_BlendShape:joint150/OCTO_BlendShape:joint151/OCTO_BlendShape:joint152/OCTO_BlendShape:joint153/OCTO_BlendShape:joint154/OCTO_BlendShape:joint155/OCTO_BlendShape:joint156/OCTO_BlendShape:joint157/OCTO_BlendShape:joint158
+        weight: 1
+      - path: OCTO_BlendShape:octo_COG/OCTO_BlendShape:joint141/OCTO_BlendShape:joint142/OCTO_BlendShape:joint143/OCTO_BlendShape:joint144/OCTO_BlendShape:joint145/OCTO_BlendShape:joint146/OCTO_BlendShape:joint147/OCTO_BlendShape:joint148/OCTO_BlendShape:joint149/OCTO_BlendShape:joint150/OCTO_BlendShape:joint151/OCTO_BlendShape:joint152/OCTO_BlendShape:joint153/OCTO_BlendShape:joint154/OCTO_BlendShape:joint155/OCTO_BlendShape:joint156/OCTO_BlendShape:joint157/OCTO_BlendShape:joint158/OCTO_BlendShape:joint159
+        weight: 1
+      - path: OCTO_BlendShape:octo_COG/OCTO_BlendShape:joint141/OCTO_BlendShape:joint142/OCTO_BlendShape:joint143/OCTO_BlendShape:joint144/OCTO_BlendShape:joint145/OCTO_BlendShape:joint146/OCTO_BlendShape:joint147/OCTO_BlendShape:joint148/OCTO_BlendShape:joint149/OCTO_BlendShape:joint150/OCTO_BlendShape:joint151/OCTO_BlendShape:joint152/OCTO_BlendShape:joint153/OCTO_BlendShape:joint154/OCTO_BlendShape:joint155/OCTO_BlendShape:joint156/OCTO_BlendShape:joint157/OCTO_BlendShape:joint158/OCTO_BlendShape:joint159/OCTO_BlendShape:joint160
+        weight: 1
+      - path: OCTO_BlendShape:octo_COG/OCTO_BlendShape:octo_Spine01
+        weight: 1
+      - path: OCTO_BlendShape:octo_COG/OCTO_BlendShape:octo_Spine01/OCTO_BlendShape:octo_Head01
+        weight: 1
+      - path: OCTO_BlendShape:octo_COG/OCTO_BlendShape:octo_Spine01/OCTO_BlendShape:octo_Head01/OCTO_BlendShape:octo_head02
+        weight: 1
+      - path: OCTO_BlendShape:octo_COG/OCTO_BlendShape:octo_Spine01/OCTO_BlendShape:octo_Head01/OCTO_BlendShape:octo_head02/OCTO_BlendShape:octo_Head03
+        weight: 1
+      - path: OCTO_BlendShape:octo_world
+        weight: 1
+      - path: OCTO_BlendShape:octo_world/OCTO_BlendShape:octo_local
+        weight: 1
+      - path: OCTO_BlendShape:octo_world/OCTO_BlendShape:octo_local/OCTO_BlendShape:octo_cog1
+        weight: 1
+      - path: OCTO_BlendShape:octo_world/OCTO_BlendShape:octo_local/OCTO_BlendShape:octo_cog1/OCTO_BlendShape:octo_cog
+        weight: 1
+      - path: OCTO_BlendShape:octo_world/OCTO_BlendShape:octo_local/OCTO_BlendShape:octo_cog1/OCTO_BlendShape:octo_cog/OCTO_BlendShape:leg01tenA1
+        weight: 1
+      - path: OCTO_BlendShape:octo_world/OCTO_BlendShape:octo_local/OCTO_BlendShape:octo_cog1/OCTO_BlendShape:octo_cog/OCTO_BlendShape:leg01tenA1/OCTO_BlendShape:leg01tenA
+        weight: 1
+      - path: OCTO_BlendShape:octo_world/OCTO_BlendShape:octo_local/OCTO_BlendShape:octo_cog1/OCTO_BlendShape:octo_cog/OCTO_BlendShape:leg01tenA1/OCTO_BlendShape:leg01tenA/OCTO_BlendShape:leg01tenB1
+        weight: 1
+      - path: OCTO_BlendShape:octo_world/OCTO_BlendShape:octo_local/OCTO_BlendShape:octo_cog1/OCTO_BlendShape:octo_cog/OCTO_BlendShape:leg01tenA1/OCTO_BlendShape:leg01tenA/OCTO_BlendShape:leg01tenB1/OCTO_BlendShape:leg01tenB
+        weight: 1
+      - path: OCTO_BlendShape:octo_world/OCTO_BlendShape:octo_local/OCTO_BlendShape:octo_cog1/OCTO_BlendShape:octo_cog/OCTO_BlendShape:leg01tenA1/OCTO_BlendShape:leg01tenA/OCTO_BlendShape:leg01tenB1/OCTO_BlendShape:leg01tenB/OCTO_BlendShape:leg01tenC1
+        weight: 1
+      - path: OCTO_BlendShape:octo_world/OCTO_BlendShape:octo_local/OCTO_BlendShape:octo_cog1/OCTO_BlendShape:octo_cog/OCTO_BlendShape:leg01tenA1/OCTO_BlendShape:leg01tenA/OCTO_BlendShape:leg01tenB1/OCTO_BlendShape:leg01tenB/OCTO_BlendShape:leg01tenC1/OCTO_BlendShape:leg01tenC
+        weight: 1
+      - path: OCTO_BlendShape:octo_world/OCTO_BlendShape:octo_local/OCTO_BlendShape:octo_cog1/OCTO_BlendShape:octo_cog/OCTO_BlendShape:leg01tenA1/OCTO_BlendShape:leg01tenA/OCTO_BlendShape:leg01tenB1/OCTO_BlendShape:leg01tenB/OCTO_BlendShape:leg01tenC1/OCTO_BlendShape:leg01tenC/OCTO_BlendShape:leg01tenD1
+        weight: 1
+      - path: OCTO_BlendShape:octo_world/OCTO_BlendShape:octo_local/OCTO_BlendShape:octo_cog1/OCTO_BlendShape:octo_cog/OCTO_BlendShape:leg01tenA1/OCTO_BlendShape:leg01tenA/OCTO_BlendShape:leg01tenB1/OCTO_BlendShape:leg01tenB/OCTO_BlendShape:leg01tenC1/OCTO_BlendShape:leg01tenC/OCTO_BlendShape:leg01tenD1/OCTO_BlendShape:leg01tenD
+        weight: 1
+      - path: OCTO_BlendShape:octo_world/OCTO_BlendShape:octo_local/OCTO_BlendShape:octo_cog1/OCTO_BlendShape:octo_cog/OCTO_BlendShape:leg01tenA1/OCTO_BlendShape:leg01tenA/OCTO_BlendShape:leg01tenB1/OCTO_BlendShape:leg01tenB/OCTO_BlendShape:leg01tenC1/OCTO_BlendShape:leg01tenC/OCTO_BlendShape:leg01tenD1/OCTO_BlendShape:leg01tenD/OCTO_BlendShape:leg01tenE1
+        weight: 1
+      - path: OCTO_BlendShape:octo_world/OCTO_BlendShape:octo_local/OCTO_BlendShape:octo_cog1/OCTO_BlendShape:octo_cog/OCTO_BlendShape:leg01tenA1/OCTO_BlendShape:leg01tenA/OCTO_BlendShape:leg01tenB1/OCTO_BlendShape:leg01tenB/OCTO_BlendShape:leg01tenC1/OCTO_BlendShape:leg01tenC/OCTO_BlendShape:leg01tenD1/OCTO_BlendShape:leg01tenD/OCTO_BlendShape:leg01tenE1/OCTO_BlendShape:leg01tenE
+        weight: 1
+      - path: OCTO_BlendShape:octo_world/OCTO_BlendShape:octo_local/OCTO_BlendShape:octo_cog1/OCTO_BlendShape:octo_cog/OCTO_BlendShape:leg01tenA1/OCTO_BlendShape:leg01tenA/OCTO_BlendShape:leg01tenB1/OCTO_BlendShape:leg01tenB/OCTO_BlendShape:leg01tenC1/OCTO_BlendShape:leg01tenC/OCTO_BlendShape:leg01tenD1/OCTO_BlendShape:leg01tenD/OCTO_BlendShape:leg01tenE1/OCTO_BlendShape:leg01tenE/OCTO_BlendShape:leg01tenF1
+        weight: 1
+      - path: OCTO_BlendShape:octo_world/OCTO_BlendShape:octo_local/OCTO_BlendShape:octo_cog1/OCTO_BlendShape:octo_cog/OCTO_BlendShape:leg01tenA1/OCTO_BlendShape:leg01tenA/OCTO_BlendShape:leg01tenB1/OCTO_BlendShape:leg01tenB/OCTO_BlendShape:leg01tenC1/OCTO_BlendShape:leg01tenC/OCTO_BlendShape:leg01tenD1/OCTO_BlendShape:leg01tenD/OCTO_BlendShape:leg01tenE1/OCTO_BlendShape:leg01tenE/OCTO_BlendShape:leg01tenF1/OCTO_BlendShape:leg01tenF
+        weight: 1
+      - path: OCTO_BlendShape:octo_world/OCTO_BlendShape:octo_local/OCTO_BlendShape:octo_cog1/OCTO_BlendShape:octo_cog/OCTO_BlendShape:leg02tenA1
+        weight: 1
+      - path: OCTO_BlendShape:octo_world/OCTO_BlendShape:octo_local/OCTO_BlendShape:octo_cog1/OCTO_BlendShape:octo_cog/OCTO_BlendShape:leg02tenA1/OCTO_BlendShape:leg02tenA
+        weight: 1
+      - path: OCTO_BlendShape:octo_world/OCTO_BlendShape:octo_local/OCTO_BlendShape:octo_cog1/OCTO_BlendShape:octo_cog/OCTO_BlendShape:leg02tenA1/OCTO_BlendShape:leg02tenA/OCTO_BlendShape:leg02tenB1
+        weight: 1
+      - path: OCTO_BlendShape:octo_world/OCTO_BlendShape:octo_local/OCTO_BlendShape:octo_cog1/OCTO_BlendShape:octo_cog/OCTO_BlendShape:leg02tenA1/OCTO_BlendShape:leg02tenA/OCTO_BlendShape:leg02tenB1/OCTO_BlendShape:leg02tenB
+        weight: 1
+      - path: OCTO_BlendShape:octo_world/OCTO_BlendShape:octo_local/OCTO_BlendShape:octo_cog1/OCTO_BlendShape:octo_cog/OCTO_BlendShape:leg02tenA1/OCTO_BlendShape:leg02tenA/OCTO_BlendShape:leg02tenB1/OCTO_BlendShape:leg02tenB/OCTO_BlendShape:leg02tenC1
+        weight: 1
+      - path: OCTO_BlendShape:octo_world/OCTO_BlendShape:octo_local/OCTO_BlendShape:octo_cog1/OCTO_BlendShape:octo_cog/OCTO_BlendShape:leg02tenA1/OCTO_BlendShape:leg02tenA/OCTO_BlendShape:leg02tenB1/OCTO_BlendShape:leg02tenB/OCTO_BlendShape:leg02tenC1/OCTO_BlendShape:leg02tenC
+        weight: 1
+      - path: OCTO_BlendShape:octo_world/OCTO_BlendShape:octo_local/OCTO_BlendShape:octo_cog1/OCTO_BlendShape:octo_cog/OCTO_BlendShape:leg02tenA1/OCTO_BlendShape:leg02tenA/OCTO_BlendShape:leg02tenB1/OCTO_BlendShape:leg02tenB/OCTO_BlendShape:leg02tenC1/OCTO_BlendShape:leg02tenC/OCTO_BlendShape:leg02tenD1
+        weight: 1
+      - path: OCTO_BlendShape:octo_world/OCTO_BlendShape:octo_local/OCTO_BlendShape:octo_cog1/OCTO_BlendShape:octo_cog/OCTO_BlendShape:leg02tenA1/OCTO_BlendShape:leg02tenA/OCTO_BlendShape:leg02tenB1/OCTO_BlendShape:leg02tenB/OCTO_BlendShape:leg02tenC1/OCTO_BlendShape:leg02tenC/OCTO_BlendShape:leg02tenD1/OCTO_BlendShape:leg02tenD
+        weight: 1
+      - path: OCTO_BlendShape:octo_world/OCTO_BlendShape:octo_local/OCTO_BlendShape:octo_cog1/OCTO_BlendShape:octo_cog/OCTO_BlendShape:leg02tenA1/OCTO_BlendShape:leg02tenA/OCTO_BlendShape:leg02tenB1/OCTO_BlendShape:leg02tenB/OCTO_BlendShape:leg02tenC1/OCTO_BlendShape:leg02tenC/OCTO_BlendShape:leg02tenD1/OCTO_BlendShape:leg02tenD/OCTO_BlendShape:leg02tenE1
+        weight: 1
+      - path: OCTO_BlendShape:octo_world/OCTO_BlendShape:octo_local/OCTO_BlendShape:octo_cog1/OCTO_BlendShape:octo_cog/OCTO_BlendShape:leg02tenA1/OCTO_BlendShape:leg02tenA/OCTO_BlendShape:leg02tenB1/OCTO_BlendShape:leg02tenB/OCTO_BlendShape:leg02tenC1/OCTO_BlendShape:leg02tenC/OCTO_BlendShape:leg02tenD1/OCTO_BlendShape:leg02tenD/OCTO_BlendShape:leg02tenE1/OCTO_BlendShape:leg02tenE
+        weight: 1
+      - path: OCTO_BlendShape:octo_world/OCTO_BlendShape:octo_local/OCTO_BlendShape:octo_cog1/OCTO_BlendShape:octo_cog/OCTO_BlendShape:leg02tenA1/OCTO_BlendShape:leg02tenA/OCTO_BlendShape:leg02tenB1/OCTO_BlendShape:leg02tenB/OCTO_BlendShape:leg02tenC1/OCTO_BlendShape:leg02tenC/OCTO_BlendShape:leg02tenD1/OCTO_BlendShape:leg02tenD/OCTO_BlendShape:leg02tenE1/OCTO_BlendShape:leg02tenE/OCTO_BlendShape:leg02tenF1
+        weight: 1
+      - path: OCTO_BlendShape:octo_world/OCTO_BlendShape:octo_local/OCTO_BlendShape:octo_cog1/OCTO_BlendShape:octo_cog/OCTO_BlendShape:leg02tenA1/OCTO_BlendShape:leg02tenA/OCTO_BlendShape:leg02tenB1/OCTO_BlendShape:leg02tenB/OCTO_BlendShape:leg02tenC1/OCTO_BlendShape:leg02tenC/OCTO_BlendShape:leg02tenD1/OCTO_BlendShape:leg02tenD/OCTO_BlendShape:leg02tenE1/OCTO_BlendShape:leg02tenE/OCTO_BlendShape:leg02tenF1/OCTO_BlendShape:leg02tenF
+        weight: 1
+      - path: OCTO_BlendShape:octo_world/OCTO_BlendShape:octo_local/OCTO_BlendShape:octo_cog1/OCTO_BlendShape:octo_cog/OCTO_BlendShape:leg03tenA1
+        weight: 1
+      - path: OCTO_BlendShape:octo_world/OCTO_BlendShape:octo_local/OCTO_BlendShape:octo_cog1/OCTO_BlendShape:octo_cog/OCTO_BlendShape:leg03tenA1/OCTO_BlendShape:leg03tenA
+        weight: 1
+      - path: OCTO_BlendShape:octo_world/OCTO_BlendShape:octo_local/OCTO_BlendShape:octo_cog1/OCTO_BlendShape:octo_cog/OCTO_BlendShape:leg03tenA1/OCTO_BlendShape:leg03tenA/OCTO_BlendShape:leg03tenB1
+        weight: 1
+      - path: OCTO_BlendShape:octo_world/OCTO_BlendShape:octo_local/OCTO_BlendShape:octo_cog1/OCTO_BlendShape:octo_cog/OCTO_BlendShape:leg03tenA1/OCTO_BlendShape:leg03tenA/OCTO_BlendShape:leg03tenB1/OCTO_BlendShape:leg03tenB
+        weight: 1
+      - path: OCTO_BlendShape:octo_world/OCTO_BlendShape:octo_local/OCTO_BlendShape:octo_cog1/OCTO_BlendShape:octo_cog/OCTO_BlendShape:leg03tenA1/OCTO_BlendShape:leg03tenA/OCTO_BlendShape:leg03tenB1/OCTO_BlendShape:leg03tenB/OCTO_BlendShape:leg03tenC1
+        weight: 1
+      - path: OCTO_BlendShape:octo_world/OCTO_BlendShape:octo_local/OCTO_BlendShape:octo_cog1/OCTO_BlendShape:octo_cog/OCTO_BlendShape:leg03tenA1/OCTO_BlendShape:leg03tenA/OCTO_BlendShape:leg03tenB1/OCTO_BlendShape:leg03tenB/OCTO_BlendShape:leg03tenC1/OCTO_BlendShape:leg03tenC
+        weight: 1
+      - path: OCTO_BlendShape:octo_world/OCTO_BlendShape:octo_local/OCTO_BlendShape:octo_cog1/OCTO_BlendShape:octo_cog/OCTO_BlendShape:leg03tenA1/OCTO_BlendShape:leg03tenA/OCTO_BlendShape:leg03tenB1/OCTO_BlendShape:leg03tenB/OCTO_BlendShape:leg03tenC1/OCTO_BlendShape:leg03tenC/OCTO_BlendShape:leg03tenD1
+        weight: 1
+      - path: OCTO_BlendShape:octo_world/OCTO_BlendShape:octo_local/OCTO_BlendShape:octo_cog1/OCTO_BlendShape:octo_cog/OCTO_BlendShape:leg03tenA1/OCTO_BlendShape:leg03tenA/OCTO_BlendShape:leg03tenB1/OCTO_BlendShape:leg03tenB/OCTO_BlendShape:leg03tenC1/OCTO_BlendShape:leg03tenC/OCTO_BlendShape:leg03tenD1/OCTO_BlendShape:leg03tenD
+        weight: 1
+      - path: OCTO_BlendShape:octo_world/OCTO_BlendShape:octo_local/OCTO_BlendShape:octo_cog1/OCTO_BlendShape:octo_cog/OCTO_BlendShape:leg03tenA1/OCTO_BlendShape:leg03tenA/OCTO_BlendShape:leg03tenB1/OCTO_BlendShape:leg03tenB/OCTO_BlendShape:leg03tenC1/OCTO_BlendShape:leg03tenC/OCTO_BlendShape:leg03tenD1/OCTO_BlendShape:leg03tenD/OCTO_BlendShape:leg03tenE1
+        weight: 1
+      - path: OCTO_BlendShape:octo_world/OCTO_BlendShape:octo_local/OCTO_BlendShape:octo_cog1/OCTO_BlendShape:octo_cog/OCTO_BlendShape:leg03tenA1/OCTO_BlendShape:leg03tenA/OCTO_BlendShape:leg03tenB1/OCTO_BlendShape:leg03tenB/OCTO_BlendShape:leg03tenC1/OCTO_BlendShape:leg03tenC/OCTO_BlendShape:leg03tenD1/OCTO_BlendShape:leg03tenD/OCTO_BlendShape:leg03tenE1/OCTO_BlendShape:leg03tenE
+        weight: 1
+      - path: OCTO_BlendShape:octo_world/OCTO_BlendShape:octo_local/OCTO_BlendShape:octo_cog1/OCTO_BlendShape:octo_cog/OCTO_BlendShape:leg03tenA1/OCTO_BlendShape:leg03tenA/OCTO_BlendShape:leg03tenB1/OCTO_BlendShape:leg03tenB/OCTO_BlendShape:leg03tenC1/OCTO_BlendShape:leg03tenC/OCTO_BlendShape:leg03tenD1/OCTO_BlendShape:leg03tenD/OCTO_BlendShape:leg03tenE1/OCTO_BlendShape:leg03tenE/OCTO_BlendShape:leg03tenF1
+        weight: 1
+      - path: OCTO_BlendShape:octo_world/OCTO_BlendShape:octo_local/OCTO_BlendShape:octo_cog1/OCTO_BlendShape:octo_cog/OCTO_BlendShape:leg03tenA1/OCTO_BlendShape:leg03tenA/OCTO_BlendShape:leg03tenB1/OCTO_BlendShape:leg03tenB/OCTO_BlendShape:leg03tenC1/OCTO_BlendShape:leg03tenC/OCTO_BlendShape:leg03tenD1/OCTO_BlendShape:leg03tenD/OCTO_BlendShape:leg03tenE1/OCTO_BlendShape:leg03tenE/OCTO_BlendShape:leg03tenF1/OCTO_BlendShape:leg03tenF
+        weight: 1
+      - path: OCTO_BlendShape:octo_world/OCTO_BlendShape:octo_local/OCTO_BlendShape:octo_cog1/OCTO_BlendShape:octo_cog/OCTO_BlendShape:leg04tenA1
+        weight: 1
+      - path: OCTO_BlendShape:octo_world/OCTO_BlendShape:octo_local/OCTO_BlendShape:octo_cog1/OCTO_BlendShape:octo_cog/OCTO_BlendShape:leg04tenA1/OCTO_BlendShape:leg04tenA
+        weight: 1
+      - path: OCTO_BlendShape:octo_world/OCTO_BlendShape:octo_local/OCTO_BlendShape:octo_cog1/OCTO_BlendShape:octo_cog/OCTO_BlendShape:leg04tenA1/OCTO_BlendShape:leg04tenA/OCTO_BlendShape:leg04tenB1
+        weight: 1
+      - path: OCTO_BlendShape:octo_world/OCTO_BlendShape:octo_local/OCTO_BlendShape:octo_cog1/OCTO_BlendShape:octo_cog/OCTO_BlendShape:leg04tenA1/OCTO_BlendShape:leg04tenA/OCTO_BlendShape:leg04tenB1/OCTO_BlendShape:leg04tenB
+        weight: 1
+      - path: OCTO_BlendShape:octo_world/OCTO_BlendShape:octo_local/OCTO_BlendShape:octo_cog1/OCTO_BlendShape:octo_cog/OCTO_BlendShape:leg04tenA1/OCTO_BlendShape:leg04tenA/OCTO_BlendShape:leg04tenB1/OCTO_BlendShape:leg04tenB/OCTO_BlendShape:leg04tenC1
+        weight: 1
+      - path: OCTO_BlendShape:octo_world/OCTO_BlendShape:octo_local/OCTO_BlendShape:octo_cog1/OCTO_BlendShape:octo_cog/OCTO_BlendShape:leg04tenA1/OCTO_BlendShape:leg04tenA/OCTO_BlendShape:leg04tenB1/OCTO_BlendShape:leg04tenB/OCTO_BlendShape:leg04tenC1/OCTO_BlendShape:leg04tenC
+        weight: 1
+      - path: OCTO_BlendShape:octo_world/OCTO_BlendShape:octo_local/OCTO_BlendShape:octo_cog1/OCTO_BlendShape:octo_cog/OCTO_BlendShape:leg04tenA1/OCTO_BlendShape:leg04tenA/OCTO_BlendShape:leg04tenB1/OCTO_BlendShape:leg04tenB/OCTO_BlendShape:leg04tenC1/OCTO_BlendShape:leg04tenC/OCTO_BlendShape:leg04tenD1
+        weight: 1
+      - path: OCTO_BlendShape:octo_world/OCTO_BlendShape:octo_local/OCTO_BlendShape:octo_cog1/OCTO_BlendShape:octo_cog/OCTO_BlendShape:leg04tenA1/OCTO_BlendShape:leg04tenA/OCTO_BlendShape:leg04tenB1/OCTO_BlendShape:leg04tenB/OCTO_BlendShape:leg04tenC1/OCTO_BlendShape:leg04tenC/OCTO_BlendShape:leg04tenD1/OCTO_BlendShape:leg04tenD
+        weight: 1
+      - path: OCTO_BlendShape:octo_world/OCTO_BlendShape:octo_local/OCTO_BlendShape:octo_cog1/OCTO_BlendShape:octo_cog/OCTO_BlendShape:leg04tenA1/OCTO_BlendShape:leg04tenA/OCTO_BlendShape:leg04tenB1/OCTO_BlendShape:leg04tenB/OCTO_BlendShape:leg04tenC1/OCTO_BlendShape:leg04tenC/OCTO_BlendShape:leg04tenD1/OCTO_BlendShape:leg04tenD/OCTO_BlendShape:leg04tenE1
+        weight: 1
+      - path: OCTO_BlendShape:octo_world/OCTO_BlendShape:octo_local/OCTO_BlendShape:octo_cog1/OCTO_BlendShape:octo_cog/OCTO_BlendShape:leg04tenA1/OCTO_BlendShape:leg04tenA/OCTO_BlendShape:leg04tenB1/OCTO_BlendShape:leg04tenB/OCTO_BlendShape:leg04tenC1/OCTO_BlendShape:leg04tenC/OCTO_BlendShape:leg04tenD1/OCTO_BlendShape:leg04tenD/OCTO_BlendShape:leg04tenE1/OCTO_BlendShape:leg04tenE
+        weight: 1
+      - path: OCTO_BlendShape:octo_world/OCTO_BlendShape:octo_local/OCTO_BlendShape:octo_cog1/OCTO_BlendShape:octo_cog/OCTO_BlendShape:leg04tenA1/OCTO_BlendShape:leg04tenA/OCTO_BlendShape:leg04tenB1/OCTO_BlendShape:leg04tenB/OCTO_BlendShape:leg04tenC1/OCTO_BlendShape:leg04tenC/OCTO_BlendShape:leg04tenD1/OCTO_BlendShape:leg04tenD/OCTO_BlendShape:leg04tenE1/OCTO_BlendShape:leg04tenE/OCTO_BlendShape:leg04tenF1
+        weight: 1
+      - path: OCTO_BlendShape:octo_world/OCTO_BlendShape:octo_local/OCTO_BlendShape:octo_cog1/OCTO_BlendShape:octo_cog/OCTO_BlendShape:leg04tenA1/OCTO_BlendShape:leg04tenA/OCTO_BlendShape:leg04tenB1/OCTO_BlendShape:leg04tenB/OCTO_BlendShape:leg04tenC1/OCTO_BlendShape:leg04tenC/OCTO_BlendShape:leg04tenD1/OCTO_BlendShape:leg04tenD/OCTO_BlendShape:leg04tenE1/OCTO_BlendShape:leg04tenE/OCTO_BlendShape:leg04tenF1/OCTO_BlendShape:leg04tenF
+        weight: 1
+      - path: OCTO_BlendShape:octo_world/OCTO_BlendShape:octo_local/OCTO_BlendShape:octo_cog1/OCTO_BlendShape:octo_cog/OCTO_BlendShape:leg05tenA1
+        weight: 1
+      - path: OCTO_BlendShape:octo_world/OCTO_BlendShape:octo_local/OCTO_BlendShape:octo_cog1/OCTO_BlendShape:octo_cog/OCTO_BlendShape:leg05tenA1/OCTO_BlendShape:leg05tenA
+        weight: 1
+      - path: OCTO_BlendShape:octo_world/OCTO_BlendShape:octo_local/OCTO_BlendShape:octo_cog1/OCTO_BlendShape:octo_cog/OCTO_BlendShape:leg05tenA1/OCTO_BlendShape:leg05tenA/OCTO_BlendShape:leg05tenB1
+        weight: 1
+      - path: OCTO_BlendShape:octo_world/OCTO_BlendShape:octo_local/OCTO_BlendShape:octo_cog1/OCTO_BlendShape:octo_cog/OCTO_BlendShape:leg05tenA1/OCTO_BlendShape:leg05tenA/OCTO_BlendShape:leg05tenB1/OCTO_BlendShape:leg05tenB
+        weight: 1
+      - path: OCTO_BlendShape:octo_world/OCTO_BlendShape:octo_local/OCTO_BlendShape:octo_cog1/OCTO_BlendShape:octo_cog/OCTO_BlendShape:leg05tenA1/OCTO_BlendShape:leg05tenA/OCTO_BlendShape:leg05tenB1/OCTO_BlendShape:leg05tenB/OCTO_BlendShape:leg05tenC1
+        weight: 1
+      - path: OCTO_BlendShape:octo_world/OCTO_BlendShape:octo_local/OCTO_BlendShape:octo_cog1/OCTO_BlendShape:octo_cog/OCTO_BlendShape:leg05tenA1/OCTO_BlendShape:leg05tenA/OCTO_BlendShape:leg05tenB1/OCTO_BlendShape:leg05tenB/OCTO_BlendShape:leg05tenC1/OCTO_BlendShape:leg05tenC
+        weight: 1
+      - path: OCTO_BlendShape:octo_world/OCTO_BlendShape:octo_local/OCTO_BlendShape:octo_cog1/OCTO_BlendShape:octo_cog/OCTO_BlendShape:leg05tenA1/OCTO_BlendShape:leg05tenA/OCTO_BlendShape:leg05tenB1/OCTO_BlendShape:leg05tenB/OCTO_BlendShape:leg05tenC1/OCTO_BlendShape:leg05tenC/OCTO_BlendShape:leg05tenD1
+        weight: 1
+      - path: OCTO_BlendShape:octo_world/OCTO_BlendShape:octo_local/OCTO_BlendShape:octo_cog1/OCTO_BlendShape:octo_cog/OCTO_BlendShape:leg05tenA1/OCTO_BlendShape:leg05tenA/OCTO_BlendShape:leg05tenB1/OCTO_BlendShape:leg05tenB/OCTO_BlendShape:leg05tenC1/OCTO_BlendShape:leg05tenC/OCTO_BlendShape:leg05tenD1/OCTO_BlendShape:leg05tenD
+        weight: 1
+      - path: OCTO_BlendShape:octo_world/OCTO_BlendShape:octo_local/OCTO_BlendShape:octo_cog1/OCTO_BlendShape:octo_cog/OCTO_BlendShape:leg05tenA1/OCTO_BlendShape:leg05tenA/OCTO_BlendShape:leg05tenB1/OCTO_BlendShape:leg05tenB/OCTO_BlendShape:leg05tenC1/OCTO_BlendShape:leg05tenC/OCTO_BlendShape:leg05tenD1/OCTO_BlendShape:leg05tenD/OCTO_BlendShape:leg05tenE1
+        weight: 1
+      - path: OCTO_BlendShape:octo_world/OCTO_BlendShape:octo_local/OCTO_BlendShape:octo_cog1/OCTO_BlendShape:octo_cog/OCTO_BlendShape:leg05tenA1/OCTO_BlendShape:leg05tenA/OCTO_BlendShape:leg05tenB1/OCTO_BlendShape:leg05tenB/OCTO_BlendShape:leg05tenC1/OCTO_BlendShape:leg05tenC/OCTO_BlendShape:leg05tenD1/OCTO_BlendShape:leg05tenD/OCTO_BlendShape:leg05tenE1/OCTO_BlendShape:leg05tenE
+        weight: 1
+      - path: OCTO_BlendShape:octo_world/OCTO_BlendShape:octo_local/OCTO_BlendShape:octo_cog1/OCTO_BlendShape:octo_cog/OCTO_BlendShape:leg05tenA1/OCTO_BlendShape:leg05tenA/OCTO_BlendShape:leg05tenB1/OCTO_BlendShape:leg05tenB/OCTO_BlendShape:leg05tenC1/OCTO_BlendShape:leg05tenC/OCTO_BlendShape:leg05tenD1/OCTO_BlendShape:leg05tenD/OCTO_BlendShape:leg05tenE1/OCTO_BlendShape:leg05tenE/OCTO_BlendShape:leg05tenF1
+        weight: 1
+      - path: OCTO_BlendShape:octo_world/OCTO_BlendShape:octo_local/OCTO_BlendShape:octo_cog1/OCTO_BlendShape:octo_cog/OCTO_BlendShape:leg05tenA1/OCTO_BlendShape:leg05tenA/OCTO_BlendShape:leg05tenB1/OCTO_BlendShape:leg05tenB/OCTO_BlendShape:leg05tenC1/OCTO_BlendShape:leg05tenC/OCTO_BlendShape:leg05tenD1/OCTO_BlendShape:leg05tenD/OCTO_BlendShape:leg05tenE1/OCTO_BlendShape:leg05tenE/OCTO_BlendShape:leg05tenF1/OCTO_BlendShape:leg05tenF
+        weight: 1
+      - path: OCTO_BlendShape:octo_world/OCTO_BlendShape:octo_local/OCTO_BlendShape:octo_cog1/OCTO_BlendShape:octo_cog/OCTO_BlendShape:leg06tenA1
+        weight: 1
+      - path: OCTO_BlendShape:octo_world/OCTO_BlendShape:octo_local/OCTO_BlendShape:octo_cog1/OCTO_BlendShape:octo_cog/OCTO_BlendShape:leg06tenA1/OCTO_BlendShape:leg06tenA
+        weight: 1
+      - path: OCTO_BlendShape:octo_world/OCTO_BlendShape:octo_local/OCTO_BlendShape:octo_cog1/OCTO_BlendShape:octo_cog/OCTO_BlendShape:leg06tenA1/OCTO_BlendShape:leg06tenA/OCTO_BlendShape:leg06tenB1
+        weight: 1
+      - path: OCTO_BlendShape:octo_world/OCTO_BlendShape:octo_local/OCTO_BlendShape:octo_cog1/OCTO_BlendShape:octo_cog/OCTO_BlendShape:leg06tenA1/OCTO_BlendShape:leg06tenA/OCTO_BlendShape:leg06tenB1/OCTO_BlendShape:leg06tenB
+        weight: 1
+      - path: OCTO_BlendShape:octo_world/OCTO_BlendShape:octo_local/OCTO_BlendShape:octo_cog1/OCTO_BlendShape:octo_cog/OCTO_BlendShape:leg06tenA1/OCTO_BlendShape:leg06tenA/OCTO_BlendShape:leg06tenB1/OCTO_BlendShape:leg06tenB/OCTO_BlendShape:leg06tenC1
+        weight: 1
+      - path: OCTO_BlendShape:octo_world/OCTO_BlendShape:octo_local/OCTO_BlendShape:octo_cog1/OCTO_BlendShape:octo_cog/OCTO_BlendShape:leg06tenA1/OCTO_BlendShape:leg06tenA/OCTO_BlendShape:leg06tenB1/OCTO_BlendShape:leg06tenB/OCTO_BlendShape:leg06tenC1/OCTO_BlendShape:leg06tenC
+        weight: 1
+      - path: OCTO_BlendShape:octo_world/OCTO_BlendShape:octo_local/OCTO_BlendShape:octo_cog1/OCTO_BlendShape:octo_cog/OCTO_BlendShape:leg06tenA1/OCTO_BlendShape:leg06tenA/OCTO_BlendShape:leg06tenB1/OCTO_BlendShape:leg06tenB/OCTO_BlendShape:leg06tenC1/OCTO_BlendShape:leg06tenC/OCTO_BlendShape:leg06tenD1
+        weight: 1
+      - path: OCTO_BlendShape:octo_world/OCTO_BlendShape:octo_local/OCTO_BlendShape:octo_cog1/OCTO_BlendShape:octo_cog/OCTO_BlendShape:leg06tenA1/OCTO_BlendShape:leg06tenA/OCTO_BlendShape:leg06tenB1/OCTO_BlendShape:leg06tenB/OCTO_BlendShape:leg06tenC1/OCTO_BlendShape:leg06tenC/OCTO_BlendShape:leg06tenD1/OCTO_BlendShape:leg06tenD
+        weight: 1
+      - path: OCTO_BlendShape:octo_world/OCTO_BlendShape:octo_local/OCTO_BlendShape:octo_cog1/OCTO_BlendShape:octo_cog/OCTO_BlendShape:leg06tenA1/OCTO_BlendShape:leg06tenA/OCTO_BlendShape:leg06tenB1/OCTO_BlendShape:leg06tenB/OCTO_BlendShape:leg06tenC1/OCTO_BlendShape:leg06tenC/OCTO_BlendShape:leg06tenD1/OCTO_BlendShape:leg06tenD/OCTO_BlendShape:leg06tenE1
+        weight: 1
+      - path: OCTO_BlendShape:octo_world/OCTO_BlendShape:octo_local/OCTO_BlendShape:octo_cog1/OCTO_BlendShape:octo_cog/OCTO_BlendShape:leg06tenA1/OCTO_BlendShape:leg06tenA/OCTO_BlendShape:leg06tenB1/OCTO_BlendShape:leg06tenB/OCTO_BlendShape:leg06tenC1/OCTO_BlendShape:leg06tenC/OCTO_BlendShape:leg06tenD1/OCTO_BlendShape:leg06tenD/OCTO_BlendShape:leg06tenE1/OCTO_BlendShape:leg06tenE
+        weight: 1
+      - path: OCTO_BlendShape:octo_world/OCTO_BlendShape:octo_local/OCTO_BlendShape:octo_cog1/OCTO_BlendShape:octo_cog/OCTO_BlendShape:leg06tenA1/OCTO_BlendShape:leg06tenA/OCTO_BlendShape:leg06tenB1/OCTO_BlendShape:leg06tenB/OCTO_BlendShape:leg06tenC1/OCTO_BlendShape:leg06tenC/OCTO_BlendShape:leg06tenD1/OCTO_BlendShape:leg06tenD/OCTO_BlendShape:leg06tenE1/OCTO_BlendShape:leg06tenE/OCTO_BlendShape:leg06tenF1
+        weight: 1
+      - path: OCTO_BlendShape:octo_world/OCTO_BlendShape:octo_local/OCTO_BlendShape:octo_cog1/OCTO_BlendShape:octo_cog/OCTO_BlendShape:leg06tenA1/OCTO_BlendShape:leg06tenA/OCTO_BlendShape:leg06tenB1/OCTO_BlendShape:leg06tenB/OCTO_BlendShape:leg06tenC1/OCTO_BlendShape:leg06tenC/OCTO_BlendShape:leg06tenD1/OCTO_BlendShape:leg06tenD/OCTO_BlendShape:leg06tenE1/OCTO_BlendShape:leg06tenE/OCTO_BlendShape:leg06tenF1/OCTO_BlendShape:leg06tenF
+        weight: 1
+      - path: OCTO_BlendShape:octo_world/OCTO_BlendShape:octo_local/OCTO_BlendShape:octo_cog1/OCTO_BlendShape:octo_cog/OCTO_BlendShape:leg07tenA1
+        weight: 1
+      - path: OCTO_BlendShape:octo_world/OCTO_BlendShape:octo_local/OCTO_BlendShape:octo_cog1/OCTO_BlendShape:octo_cog/OCTO_BlendShape:leg07tenA1/OCTO_BlendShape:leg07tenA
+        weight: 1
+      - path: OCTO_BlendShape:octo_world/OCTO_BlendShape:octo_local/OCTO_BlendShape:octo_cog1/OCTO_BlendShape:octo_cog/OCTO_BlendShape:leg07tenA1/OCTO_BlendShape:leg07tenA/OCTO_BlendShape:leg07tenB1
+        weight: 1
+      - path: OCTO_BlendShape:octo_world/OCTO_BlendShape:octo_local/OCTO_BlendShape:octo_cog1/OCTO_BlendShape:octo_cog/OCTO_BlendShape:leg07tenA1/OCTO_BlendShape:leg07tenA/OCTO_BlendShape:leg07tenB1/OCTO_BlendShape:leg07tenB
+        weight: 1
+      - path: OCTO_BlendShape:octo_world/OCTO_BlendShape:octo_local/OCTO_BlendShape:octo_cog1/OCTO_BlendShape:octo_cog/OCTO_BlendShape:leg07tenA1/OCTO_BlendShape:leg07tenA/OCTO_BlendShape:leg07tenB1/OCTO_BlendShape:leg07tenB/OCTO_BlendShape:leg07tenC1
+        weight: 1
+      - path: OCTO_BlendShape:octo_world/OCTO_BlendShape:octo_local/OCTO_BlendShape:octo_cog1/OCTO_BlendShape:octo_cog/OCTO_BlendShape:leg07tenA1/OCTO_BlendShape:leg07tenA/OCTO_BlendShape:leg07tenB1/OCTO_BlendShape:leg07tenB/OCTO_BlendShape:leg07tenC1/OCTO_BlendShape:leg07tenC
+        weight: 1
+      - path: OCTO_BlendShape:octo_world/OCTO_BlendShape:octo_local/OCTO_BlendShape:octo_cog1/OCTO_BlendShape:octo_cog/OCTO_BlendShape:leg07tenA1/OCTO_BlendShape:leg07tenA/OCTO_BlendShape:leg07tenB1/OCTO_BlendShape:leg07tenB/OCTO_BlendShape:leg07tenC1/OCTO_BlendShape:leg07tenC/OCTO_BlendShape:leg07tenD1
+        weight: 1
+      - path: OCTO_BlendShape:octo_world/OCTO_BlendShape:octo_local/OCTO_BlendShape:octo_cog1/OCTO_BlendShape:octo_cog/OCTO_BlendShape:leg07tenA1/OCTO_BlendShape:leg07tenA/OCTO_BlendShape:leg07tenB1/OCTO_BlendShape:leg07tenB/OCTO_BlendShape:leg07tenC1/OCTO_BlendShape:leg07tenC/OCTO_BlendShape:leg07tenD1/OCTO_BlendShape:leg07tenD
+        weight: 1
+      - path: OCTO_BlendShape:octo_world/OCTO_BlendShape:octo_local/OCTO_BlendShape:octo_cog1/OCTO_BlendShape:octo_cog/OCTO_BlendShape:leg07tenA1/OCTO_BlendShape:leg07tenA/OCTO_BlendShape:leg07tenB1/OCTO_BlendShape:leg07tenB/OCTO_BlendShape:leg07tenC1/OCTO_BlendShape:leg07tenC/OCTO_BlendShape:leg07tenD1/OCTO_BlendShape:leg07tenD/OCTO_BlendShape:leg07tenE1
+        weight: 1
+      - path: OCTO_BlendShape:octo_world/OCTO_BlendShape:octo_local/OCTO_BlendShape:octo_cog1/OCTO_BlendShape:octo_cog/OCTO_BlendShape:leg07tenA1/OCTO_BlendShape:leg07tenA/OCTO_BlendShape:leg07tenB1/OCTO_BlendShape:leg07tenB/OCTO_BlendShape:leg07tenC1/OCTO_BlendShape:leg07tenC/OCTO_BlendShape:leg07tenD1/OCTO_BlendShape:leg07tenD/OCTO_BlendShape:leg07tenE1/OCTO_BlendShape:leg07tenE
+        weight: 1
+      - path: OCTO_BlendShape:octo_world/OCTO_BlendShape:octo_local/OCTO_BlendShape:octo_cog1/OCTO_BlendShape:octo_cog/OCTO_BlendShape:leg07tenA1/OCTO_BlendShape:leg07tenA/OCTO_BlendShape:leg07tenB1/OCTO_BlendShape:leg07tenB/OCTO_BlendShape:leg07tenC1/OCTO_BlendShape:leg07tenC/OCTO_BlendShape:leg07tenD1/OCTO_BlendShape:leg07tenD/OCTO_BlendShape:leg07tenE1/OCTO_BlendShape:leg07tenE/OCTO_BlendShape:leg07tenF1
+        weight: 1
+      - path: OCTO_BlendShape:octo_world/OCTO_BlendShape:octo_local/OCTO_BlendShape:octo_cog1/OCTO_BlendShape:octo_cog/OCTO_BlendShape:leg07tenA1/OCTO_BlendShape:leg07tenA/OCTO_BlendShape:leg07tenB1/OCTO_BlendShape:leg07tenB/OCTO_BlendShape:leg07tenC1/OCTO_BlendShape:leg07tenC/OCTO_BlendShape:leg07tenD1/OCTO_BlendShape:leg07tenD/OCTO_BlendShape:leg07tenE1/OCTO_BlendShape:leg07tenE/OCTO_BlendShape:leg07tenF1/OCTO_BlendShape:leg07tenF
+        weight: 1
+      - path: OCTO_BlendShape:octo_world/OCTO_BlendShape:octo_local/OCTO_BlendShape:octo_cog1/OCTO_BlendShape:octo_cog/OCTO_BlendShape:leg08tenA1
+        weight: 1
+      - path: OCTO_BlendShape:octo_world/OCTO_BlendShape:octo_local/OCTO_BlendShape:octo_cog1/OCTO_BlendShape:octo_cog/OCTO_BlendShape:leg08tenA1/OCTO_BlendShape:leg08tenA
+        weight: 1
+      - path: OCTO_BlendShape:octo_world/OCTO_BlendShape:octo_local/OCTO_BlendShape:octo_cog1/OCTO_BlendShape:octo_cog/OCTO_BlendShape:leg08tenA1/OCTO_BlendShape:leg08tenA/OCTO_BlendShape:leg08tenB1
+        weight: 1
+      - path: OCTO_BlendShape:octo_world/OCTO_BlendShape:octo_local/OCTO_BlendShape:octo_cog1/OCTO_BlendShape:octo_cog/OCTO_BlendShape:leg08tenA1/OCTO_BlendShape:leg08tenA/OCTO_BlendShape:leg08tenB1/OCTO_BlendShape:leg08tenB
+        weight: 1
+      - path: OCTO_BlendShape:octo_world/OCTO_BlendShape:octo_local/OCTO_BlendShape:octo_cog1/OCTO_BlendShape:octo_cog/OCTO_BlendShape:leg08tenA1/OCTO_BlendShape:leg08tenA/OCTO_BlendShape:leg08tenB1/OCTO_BlendShape:leg08tenB/OCTO_BlendShape:leg08tenC1
+        weight: 1
+      - path: OCTO_BlendShape:octo_world/OCTO_BlendShape:octo_local/OCTO_BlendShape:octo_cog1/OCTO_BlendShape:octo_cog/OCTO_BlendShape:leg08tenA1/OCTO_BlendShape:leg08tenA/OCTO_BlendShape:leg08tenB1/OCTO_BlendShape:leg08tenB/OCTO_BlendShape:leg08tenC1/OCTO_BlendShape:leg08tenC
+        weight: 1
+      - path: OCTO_BlendShape:octo_world/OCTO_BlendShape:octo_local/OCTO_BlendShape:octo_cog1/OCTO_BlendShape:octo_cog/OCTO_BlendShape:leg08tenA1/OCTO_BlendShape:leg08tenA/OCTO_BlendShape:leg08tenB1/OCTO_BlendShape:leg08tenB/OCTO_BlendShape:leg08tenC1/OCTO_BlendShape:leg08tenC/OCTO_BlendShape:leg08tenD1
+        weight: 1
+      - path: OCTO_BlendShape:octo_world/OCTO_BlendShape:octo_local/OCTO_BlendShape:octo_cog1/OCTO_BlendShape:octo_cog/OCTO_BlendShape:leg08tenA1/OCTO_BlendShape:leg08tenA/OCTO_BlendShape:leg08tenB1/OCTO_BlendShape:leg08tenB/OCTO_BlendShape:leg08tenC1/OCTO_BlendShape:leg08tenC/OCTO_BlendShape:leg08tenD1/OCTO_BlendShape:leg08tenD
+        weight: 1
+      - path: OCTO_BlendShape:octo_world/OCTO_BlendShape:octo_local/OCTO_BlendShape:octo_cog1/OCTO_BlendShape:octo_cog/OCTO_BlendShape:leg08tenA1/OCTO_BlendShape:leg08tenA/OCTO_BlendShape:leg08tenB1/OCTO_BlendShape:leg08tenB/OCTO_BlendShape:leg08tenC1/OCTO_BlendShape:leg08tenC/OCTO_BlendShape:leg08tenD1/OCTO_BlendShape:leg08tenD/OCTO_BlendShape:leg08tenE1
+        weight: 1
+      - path: OCTO_BlendShape:octo_world/OCTO_BlendShape:octo_local/OCTO_BlendShape:octo_cog1/OCTO_BlendShape:octo_cog/OCTO_BlendShape:leg08tenA1/OCTO_BlendShape:leg08tenA/OCTO_BlendShape:leg08tenB1/OCTO_BlendShape:leg08tenB/OCTO_BlendShape:leg08tenC1/OCTO_BlendShape:leg08tenC/OCTO_BlendShape:leg08tenD1/OCTO_BlendShape:leg08tenD/OCTO_BlendShape:leg08tenE1/OCTO_BlendShape:leg08tenE
+        weight: 1
+      - path: OCTO_BlendShape:octo_world/OCTO_BlendShape:octo_local/OCTO_BlendShape:octo_cog1/OCTO_BlendShape:octo_cog/OCTO_BlendShape:leg08tenA1/OCTO_BlendShape:leg08tenA/OCTO_BlendShape:leg08tenB1/OCTO_BlendShape:leg08tenB/OCTO_BlendShape:leg08tenC1/OCTO_BlendShape:leg08tenC/OCTO_BlendShape:leg08tenD1/OCTO_BlendShape:leg08tenD/OCTO_BlendShape:leg08tenE1/OCTO_BlendShape:leg08tenE/OCTO_BlendShape:leg08tenf1
+        weight: 1
+      - path: OCTO_BlendShape:octo_world/OCTO_BlendShape:octo_local/OCTO_BlendShape:octo_cog1/OCTO_BlendShape:octo_cog/OCTO_BlendShape:leg08tenA1/OCTO_BlendShape:leg08tenA/OCTO_BlendShape:leg08tenB1/OCTO_BlendShape:leg08tenB/OCTO_BlendShape:leg08tenC1/OCTO_BlendShape:leg08tenC/OCTO_BlendShape:leg08tenD1/OCTO_BlendShape:leg08tenD/OCTO_BlendShape:leg08tenE1/OCTO_BlendShape:leg08tenE/OCTO_BlendShape:leg08tenf1/OCTO_BlendShape:leg08tenf
+        weight: 1
+      - path: OCTO_BlendShape:octo_world/OCTO_BlendShape:octo_local/OCTO_BlendShape:octo_cog1/OCTO_BlendShape:Octo_hip1
+        weight: 1
+      - path: OCTO_BlendShape:octo_world/OCTO_BlendShape:octo_local/OCTO_BlendShape:octo_cog1/OCTO_BlendShape:Octo_hip1/OCTO_BlendShape:Octo_hip
+        weight: 1
+      - path: OCTO_BlendShape:octo_world/OCTO_BlendShape:octo_local/OCTO_BlendShape:octo_cog1/OCTO_BlendShape:Octo_hip1/OCTO_BlendShape:Octo_hip/OCTO_BlendShape:octo_spine1
+        weight: 1
+      - path: OCTO_BlendShape:octo_world/OCTO_BlendShape:octo_local/OCTO_BlendShape:octo_cog1/OCTO_BlendShape:Octo_hip1/OCTO_BlendShape:Octo_hip/OCTO_BlendShape:octo_spine1/OCTO_BlendShape:octo_spine
+        weight: 1
+      - path: OCTO_BlendShape:octo_world/OCTO_BlendShape:octo_local/OCTO_BlendShape:octo_cog1/OCTO_BlendShape:Octo_hip1/OCTO_BlendShape:Octo_hip/OCTO_BlendShape:octo_spine1/OCTO_BlendShape:octo_spine/OCTO_BlendShape:octo_headA
+        weight: 1
+      - path: OCTO_BlendShape:octo_world/OCTO_BlendShape:octo_local/OCTO_BlendShape:octo_cog1/OCTO_BlendShape:Octo_hip1/OCTO_BlendShape:Octo_hip/OCTO_BlendShape:octo_spine1/OCTO_BlendShape:octo_spine/OCTO_BlendShape:octo_headA/OCTO_BlendShape:octo_head01
+        weight: 1
+      - path: OCTO_BlendShape:octo_world/OCTO_BlendShape:octo_local/OCTO_BlendShape:octo_cog1/OCTO_BlendShape:Octo_hip1/OCTO_BlendShape:Octo_hip/OCTO_BlendShape:octo_spine1/OCTO_BlendShape:octo_spine/OCTO_BlendShape:octo_headA/OCTO_BlendShape:octo_head01/OCTO_BlendShape:nurbsCircle2
+        weight: 1
+      - path: OCTO_BlendShape:octo_world/OCTO_BlendShape:octo_local/OCTO_BlendShape:octo_cog1/OCTO_BlendShape:Octo_hip1/OCTO_BlendShape:Octo_hip/OCTO_BlendShape:octo_spine1/OCTO_BlendShape:octo_spine/OCTO_BlendShape:octo_headA/OCTO_BlendShape:octo_head01/OCTO_BlendShape:nurbsCircle2/OCTO_BlendShape:octo_head02
+          1
+        weight: 1
+      - path: OCTO_BlendShape:octopus1
+        weight: 1
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

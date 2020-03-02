@@ -1,0 +1,161 @@
+fileFormatVersion: 2
+guid: 9b11a333871cdd14098266b02b156a77
+timeCreated: 1485122046
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: joint1
+    100002: joint10
+    100004: joint11
+    100006: joint12
+    100008: joint13
+    100010: joint14
+    100012: joint2
+    100014: joint3
+    100016: joint4
+    100018: joint5
+    100020: joint6
+    100022: joint7
+    100024: joint8
+    100026: joint9
+    100028: nurbsCircle14
+    100030: nurbsCircle15
+    100032: nurbsCircle16
+    100034: nurbsCircle17
+    100036: nurbsCircle18
+    100038: nurbsCircle19
+    100040: nurbsCircle20
+    100042: nurbsCircle21
+    100044: nurbsCircle22
+    100046: nurbsCircle23
+    100048: nurbsCircle24
+    100050: nurbsCircle25
+    100052: shark_body01
+    100054: shark_body02
+    100056: shark_body03
+    100058: shark_body04
+    100060: shark_body05
+    100062: shark_body06
+    100064: shark_body07
+    100066: shark_body08
+    100068: shark_body09
+    100070: shark_body10
+    100072: shark_body11
+    100074: shark_body12
+    100076: shark_mesh
+    100078: shark_World
+    100080: //RootNode
+    400000: joint1
+    400002: joint10
+    400004: joint11
+    400006: joint12
+    400008: joint13
+    400010: joint14
+    400012: joint2
+    400014: joint3
+    400016: joint4
+    400018: joint5
+    400020: joint6
+    400022: joint7
+    400024: joint8
+    400026: joint9
+    400028: nurbsCircle14
+    400030: nurbsCircle15
+    400032: nurbsCircle16
+    400034: nurbsCircle17
+    400036: nurbsCircle18
+    400038: nurbsCircle19
+    400040: nurbsCircle20
+    400042: nurbsCircle21
+    400044: nurbsCircle22
+    400046: nurbsCircle23
+    400048: nurbsCircle24
+    400050: nurbsCircle25
+    400052: shark_body01
+    400054: shark_body02
+    400056: shark_body03
+    400058: shark_body04
+    400060: shark_body05
+    400062: shark_body06
+    400064: shark_body07
+    400066: shark_body08
+    400068: shark_body09
+    400070: shark_body10
+    400072: shark_body11
+    400074: shark_body12
+    400076: shark_mesh
+    400078: shark_World
+    400080: //RootNode
+    4300000: shark_mesh
+    7400000: Take 001
+    9500000: //RootNode
+    13700000: shark_mesh
+  materials:
+    importMaterials: 1
+    materialName: 2
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
